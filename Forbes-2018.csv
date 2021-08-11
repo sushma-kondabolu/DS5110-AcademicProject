@@ -1,0 +1,2001 @@
+﻿Rank,Name,Country,Sales,Profit,Assets,Market Value,Year
+1,ICBC,China,165.338,43.6694,4210.927,311.014,2018
+2,China Construction Bank,China,143.202,37.2031,3631.583,261.166,2018
+3,JPMorgan Chase,United States,118.18,26.496,2609.785,387.668,2018
+4,Berkshire Hathaway,United States,235.165,39.742,702.651,491.888,2018
+5,Agricultural Bank of China,China,129.345,29.6387,3439.314,184.125,2018
+6,Bank of America,United States,102.978,20.294,2328.478,313.51,2018
+7,Wells Fargo,United States,102.063,21.693,1915.388,265.328,2018
+8,Apple,United States,247.535,53.318,367.502,926.946,2018
+9,Bank of China,China,118.15,26.3535,3204.207,158.628,2018
+10,Ping An Insurance Group,China,141.623,13.8884,1066.373,181.411,2018
+11,Royal Dutch Shell,Netherlands,321.766,15.159,410.719,306.459,2018
+12,Toyota Motor,Japan,265.165,22.5022,473.044,200.682,2018
+13,ExxonMobil,United States,230.055,20.35,348.826,344.126,2018
+14,Samsung Electronics,South Korea,224.644,40.9941,293.154,325.865,2018
+15,AT&T,United States,159.219,30.643,446.343,198.293,2018
+16,Volkswagen Group,Germany,271.951,13.1235,531.393,101.428,2018
+17,HSBC Holdings,United Kingdom,63.169,10.7503,2652.123,200.293,2018
+18,Verizon Communications,United States,127.992,31.196,264.516,200.893,2018
+19,BNP Paribas,France,117.774,8.5012,2353.87,93.581,2018
+20,Microsoft,United States,103.313,14.211,245.497,750.649,2018
+21,Chevron,United States,139.397,10.151,256.442,248.119,2018
+22,Allianz,Germany,122.549,7.6733,1128.585,100.405,2018
+23,Alphabet,United States,117.884,16.637,206.935,766.35,2018
+24,Walmart,United States,500.343,9.862,204.522,246.178,2018
+25,China Mobile,Hong Kong,109.493,16.882,233.74,192.632,2018
+26,Total,France,155.776,8.3911,257.022,168.012,2018
+27,Sinopec,China,326.585,8.0357,249.937,138.569,2018
+28,UnitedHealth Group,United States,207.624,11.222,155.569,228.983,2018
+29,Daimler,Germany,193.217,11.7936,323.196,85.678,2018
+30,PetroChina,China,282.393,4.138,381.121,220.199,2018
+31,Banco Santander,Spain,56.068,7.9536,1769.144,106.323,2018
+32,China Merchants Bank,China,49.936,11.0236,993.732,112.449,2018
+33,AXA Group,France,149.895,6.745,1029.142,64.058,2018
+34,Comcast,United States,86.854,23.266,190.876,146.792,2018
+35,China Life Insurance,China,97.129,5.967,474.155,104.055,2018
+36,BP,United Kingdom,251.939,4.319,275.287,152.567,2018
+37,Mitsubishi UFJ Financial,Japan,51.76,8.9441,2774.219,86.166,2018
+38,Bank of Communications,China,59.05,10.729,1472.867,66.642,2018
+39,Softbank,Japan,82.636,9.1766,293.187,84.919,2018
+40,BMW Group,Germany,114.435,10.2394,241.324,72.348,2018
+41,Anheuser-Busch InBev,Belgium,56.361,7.9078,248.635,184.307,2018
+42,Royal Bank of Canada,Canada,40.491,8.8372,1040.286,113.418,2018
+43,Gazprom,Russia,112.226,12.2459,316.803,57.835,2018
+44,Pfizer,United States,52.673,21.748,164.612,207.66,2018
+45,ItaÃº Unibanco Holding,Brazil,62.31,7.548,437.6,87.033,2018
+46,Nippon Telegraph & Tel,Japan,104.808,7.7407,191.106,96.119,2018
+47,Sberbank,Russia,46.326,13.4486,470.933,86.311,2018
+48,Nestle,Switzerland,91.227,7.2979,133.792,237.278,2018
+49,Intel,United States,64.031,11.091,128.596,254.762,2018
+50,Morgan Stanley,United States,45.587,6.892,858.495,97.718,2018
+51,Siemens,Germany,94.469,7.1398,163.376,112.503,2018
+52,Boeing,United States,95.798,9.216,113.549,199.511,2018
+53,Amazon.com,United States,193.194,3.938,126.362,777.775,2018
+54,TD Bank Group,Canada,35.741,7.9182,1028.093,107.762,2018
+55,Procter & Gamble,United States,66.408,10.074,124.369,184.496,2018
+56,ING Group,Netherlands,56.579,5.5325,1016.136,62.21,2018
+57,Postal Savings Bank Of China,China,56.103,7.6336,1466.597,55.33,2018
+58,Honda Motor,Japan,138.598,9.558,181.938,58.905,2018
+59,Sumitomo Mitsui Financial,Japan,49.131,7.2232,1847.732,58.292,2018
+60,Goldman Sachs Group,United States,43.69,4.863,973.535,91.755,2018
+61,Intesa Sanpaolo,Italy,42.522,8.252,956.871,63.06,2018
+62,Industrial Bank,China,47.951,8.7562,1023.094,53.522,2018
+63,Novartis,Switzerland,50.261,8.06,135.526,202.983,2018
+64,Glencore International,Switzerland,205.384,5.7578,135.593,75.479,2018
+65,Banco Bradesco,Brazil,76.5,4.6777,370.504,61.34,2018
+66,Prudential,United Kingdom,111.476,3.0766,655.094,67.756,2018
+67,Ford Motor,United States,159.589,7.751,267.23,44.593,2018
+68,IBM,United States,80.057,5.682,125.285,132.316,2018
+69,CVS Health,United States,185.944,6.648,135.139,65.482,2018
+70,Shanghai Pudong Development,China,48.301,8.1632,974.775,50.739,2018
+71,Commonwealth Bank,Australia,33.038,7.6184,752.374,93.505,2018
+72,Walt Disney,United States,56.826,11.473,97.943,152.137,2018
+73,"Prudential Financial,41.95,61.127,7.763,829.677,73,Financials,Life & Health Insurance,North America,United States,New Jersey,New Jersey,""John Robert Strangfeld, Jr."",http://www.forbes.com/companies/prudential-financial/,0.00935665325180763,0.126997889639603",,,,,,2018
+74,Rosneft,Russia,94.789,3.9088,214.222,68.972,2018
+75,Enel,Italy,86.675,4.6336,193.638,61.566,2018
+76,Citic Pacific,Hong Kong,57.814,5.6336,962.064,44.397,2018
+77,Facebook,United States,44.587,17.847,88.945,541.47,2018
+78,MetLife,United States,64.085,4.437,712.584,47.543,2018
+79,Deutsche Telekom,Germany,84.535,3.9027,179.078,80.831,2018
+80,SAIC Motor,China,136.567,5.4102,118.434,63.835,2018
+81,Alibaba,China,37.87,9.6174,114.005,499.404,2018
+82,BASF,Germany,75.1,7.0678,98.947,95.299,2018
+83,Reliance Industries,India,60.757,5.596,125.165,93.066,2018
+84,China State Construction Engineering,China,162.275,5.1306,257.557,40.392,2018
+85,China Citic Bank,China,43.648,6.545,893.992,46.54,2018
+86,Sony,Japan,77.089,4.4283,179.272,59.896,2018
+87,Westpac Banking Group,Australia,29.353,6.3989,668.765,76.241,2018
+88,Bank of Nova Scotia,Canada,28.83,6.4541,752.457,74.979,2018
+89,British American Tobacco,United Kingdom,26.132,48.3358,190.789,119.987,2018
+90,China Minsheng Banking,China,42.743,7.354,954.04,43.524,2018
+91,Equinor,Norway,65.145,4.861,115.449,90.211,2018
+92,AIA Group,Hong Kong,31.917,6.1205,213.21,111.406,2018
+93,Roche Holding,Switzerland,54.151,8.771,78.682,189.692,2018
+94,Lloyds Banking Group,United Kingdom,33.593,4.049,1098.581,65.391,2018
+95,Eni,Italy,75.483,3.8654,143.132,70.712,2018
+96,Charter Communications,United States,42.074,9.908,146.151,64.782,2018
+97,Nissan Motor,Japan,106.866,7.3793,173.683,39.72,2018
+98,LukOil,Russia,99.902,7.1799,91.973,60.435,2018
+99,United Technologies,United States,61.218,4.463,98.779,99.591,2018
+100,Bayer,Germany,44.351,8.4222,92.726,104.625,2018
+101,AIRBUS,Netherlands,74.672,2.9765,138.333,92.149,2018
+102,PepsiCo,United States,64.038,4.882,81.887,138.141,2018
+103,Unilever,Netherlands,60.587,6.8274,72.39,155.786,2018
+104,ANZ,Australia,28.739,5.2729,717.29,61.245,2018
+105,Hon Hai Precision,Taiwan,154.711,4.5602,114.496,49.49,2018
+106,Tencent Holdings,China,35.269,10.6055,85.177,491.253,2018
+107,"Oracle,191.134,39.471,3.65,138.201,107,Information Technology,Software & Programming,North America,United States,California,California,""Safra A. Catz, Mark Hurd"",http://www.forbes.com/companies/oracle/,0.0264108074471241,0.0924729548275949",,,,,,2018
+108,BHP Billiton,Australia,41.234,4.712,112.582,133.205,2018
+109,US Bancorp,United States,24.063,6.391,460.119,84.587,2018
+110,Zurich Insurance Group,Switzerland,64.092,3.0041,401.147,48.025,2018
+111,Rio Tinto,United Kingdom,40.002,8.7144,95.726,99.306,2018
+112,Mitsubishi,Japan,68.278,5.0542,150.794,46.356,2018
+113,UniCredit Group,Italy,29.007,6.137,1004.817,47.782,2018
+114,Mizuho Financial,Japan,29.729,5.1242,1850.368,46.195,2018
+115,EDF,France,78.54,2.9417,337.127,42.957,2018
+116,BBVA-Banco Bilbao Vizcaya,Spain,29.239,4.2771,843.01,54.477,2018
+117,Sanofi,France,39.54,4.276,119.871,94.905,2018
+118,Taiwan Semiconductor,Taiwan,33.064,11.5138,70.28,203.024,2018
+119,American Express,United States,37.648,3.096,179.956,87.258,2018
+120,Saudi Basic Industries,Saudi Arabia,41.896,4.9785,90.518,91.839,2018
+121,Home Depot,United States,100.904,8.63,44.529,219.374,2018
+122,DowDuPont,United States,80.578,1.661,192.441,155.33,2018
+123,TelefÃ³nica,Spain,59.676,3.3995,141.157,51.115,2018
+124,Walgreens Boots Alliance,United States,124.028,4.134,70.816,63.556,2018
+125,National Australia Bank,Australia,25.578,4.1167,610.632,58.172,2018
+126,Kraft Heinz Company,United States,26.172,11.099,120.787,72.224,2018
+127,China Evergrande Group,China,46.035,3.5687,270.539,41.97,2018
+128,Fiat Chrysler Automobiles,United Kingdom,128.83,4.5225,117.608,34.976,2018
+129,Anthem,United States,90.114,4.1454,73.3,59.219,2018
+130,Chubb,Switzerland,32.613,3.85,168.781,63.428,2018
+131,China Shenhua Energy,China,36.431,6.709,91.177,64.62,2018
+132,Vale,Brazil,34.094,4.614,94.388,77.407,2018
+133,China Vanke,China,36.6,4.2335,194.585,43.806,2018
+134,PNC Financial Services,United States,18.475,5.488,379.161,70.88,2018
+135,Renault,France,66.289,5.7683,132.02,30.754,2018
+136,Generali Group,Italy,93.132,2.3799,647.168,30.846,2018
+137,AbbVie,United States,29.612,6.352,69.342,165.321,2018
+138,China Pacific Insurance,China,50.943,2.474,191.097,47.987,2018
+139,Bank of Montreal,Canada,22.229,3.7427,593.315,50.878,2018
+140,Banco do Brasil,Brazil,55.033,3.4488,412.771,27.832,2018
+141,China Everbright Bank,China,30.335,4.84,661.698,32.213,2018
+142,CK Hutchison,Hong Kong,31.89,4.5041,140.746,45.384,2018
+143,Country Garden Holdings,China,33.789,3.8896,161.19,45.197,2018
+144,KDDI,Japan,45.492,5.1657,61.82,65.526,2018
+145,Johnson & Johnson,United States,78.662,1.245,156.625,341.277,2018
+146,Iberdrola,Spain,37.766,3.289,138.022,49.383,2018
+147,Hyundai Motor,South Korea,85.908,3.033,164.714,31.567,2018
+148,Credit Agricole,France,21.051,3.604,1861.58,43.92,2018
+149,Hitachi,Japan,84.53,3.2751,95.032,38.516,2018
+150,Christian Dior,France,49.252,2.5266,87.373,76.442,2018
+151,Phillips 66,United States,92.686,5.09,52.132,54.857,2018
+152,ArcelorMittal,Luxembourg,68.587,4.5667,85.297,36.82,2018
+153,United Parcel Service,United States,67.705,5.097,44.464,99.698,2018
+154,Medtronic,Ireland,29.725,2.807,95.8,115.965,2018
+155,FedEx,United States,63.864,4.459,51.851,67.044,2018
+156,PTT PCL,Thailand,58.813,3.9347,68.497,50.893,2018
+157,VINCI,France,46.105,3.0984,83.819,56.769,2018
+158,CNOOC,Hong Kong,27.583,3.6297,94.782,78.832,2018
+159,Capital One Financial,United States,30.636,2.491,362.857,45.058,2018
+160,Time Warner,United States,31.532,5.453,68.997,73.389,2018
+161,SociÃ©tÃ© GÃ©nÃ©rale,France,27.831,2.639,1531.174,38.341,2018
+162,Bank of New York Mellon,United States,17.279,4.302,373.597,57.791,2018
+163,UBS,Switzerland,40.34,1.4527,960.083,61.802,2018
+164,Visa,United States,19.355,9.002,69.042,295.124,2018
+165,Brookfield Asset Management,Canada,47.594,2.339,195.936,38.914,2018
+166,Caterpillar,United States,48.499,2.227,78.014,92.592,2018
+167,Aetna,United States,60.612,3.494,59.197,57.135,2018
+168,Royal Bank of Scotland,United Kingdom,21.481,2.4939,1035.98,47.935,2018
+169,China Communications Construction,China,71.159,3.045,135.58,28.797,2018
+170,McKesson,United States,205.442,4.798,64.213,30.788,2018
+171,Aviva,United Kingdom,63.718,1.9279,580.591,29.521,2018
+172,Express Scripts,United States,100.234,4.5943,53.406,40.893,2018
+173,Valero Energy,United States,98.647,4.229,49.376,49.397,2018
+174,China Telecom,China,54.198,2.7367,101.535,38.56,2018
+175,Union Pacific,United States,21.583,10.95,57.789,109.652,2018
+176,Duke Energy,United States,23.971,2.963,138.541,56.242,2018
+177,Jardine Matheson,Hong Kong,39.456,3.785,82.814,44.229,2018
+178,Enbridge,Canada,33.584,2.2026,129.369,57.192,2018
+179,Exelon,United States,34.475,3.36,117.018,39.233,2018
+180,ENGIE,France,73.348,1.6051,180.519,41.764,2018
+181,SAP,Germany,27.389,4.9128,51.03,138.862,2018
+182,NextEra Energy,United States,16.372,8.223,94.284,75.779,2018
+183,Mitsui,Japan,44.14,3.7758,106.316,30.342,2018
+184,Manulife,Canada,40.086,1.6564,549.67,38.499,2018
+185,Allstate,United States,38.003,3.469,113.289,33.877,2018
+186,BlackRock,United States,13.375,5.197,216.017,86.561,2018
+187,Legal & General Group,United Kingdom,52.145,2.4353,676.61,22.572,2018
+188,China Railway Group,China,105.996,2.503,132.598,25.334,2018
+189,Costco Wholesale,United States,135.964,2.96,38.703,85.903,2018
+190,Tokio Marine Holdings,Japan,47.641,1.8287,206.911,35.929,2018
+191,Merck & Co.,United States,40.764,1.58,86.041,160.584,2018
+192,Orange,France,46.354,1.816,115.707,48.252,2018
+193,Philip Morris International,United States,29.57,5.985,43.07,126.223,2018
+194,Dai-ichi Life Insurance,Japan,57.629,2.2027,481.971,22.835,2018
+195,Aflac,United States,21.812,4.729,147.356,35.016,2018
+196,Canadian Imperial Bank,Canada,16.649,3.577,478.402,40.002,2018
+197,Gilead Sciences,United States,24.783,3.464,65.381,86.025,2018
+198,Twenty-First Century Fox,United States,29.207,4.02,53.978,70.286,2018
+199,Nordea Bank,Sweden,15.196,3.508,713.544,43.02,2018
+200,Broadcom,United States,18.824,7.787,54.544,99.969,2018
+201,SK Hynix,South Korea,29.288,10.6788,46.088,56.845,2018
+202,HDFC Bank,India,15.721,2.8713,169.144,77.596,2018
+203,Suncor Energy,Canada,25.743,3.0347,70.799,65.072,2018
+204,Continental,Germany,51.445,3.4738,47.774,53.2,2018
+205,Deutsche Post,Germany,68.177,3.0601,46.697,50.75,2018
+206,Itochu,Japan,49.715,3.6121,81.466,28.757,2018
+207,L'OrÃ©al Group,France,29.353,4.2949,42.435,134.22,2018
+208,Lockheed Martin,United States,51.626,2.396,46.634,92.523,2018
+209,Coca-Cola,United States,33.682,1.434,93.282,179.317,2018
+210,Honeywell International,United States,41.434,1.767,60.948,110.068,2018
+211,Lowe's,United States,68.619,3.436,35.291,72.213,2018
+212,MondelÄ“z International,United States,26.247,3.19,64.503,57.867,2018
+213,AstraZeneca,United Kingdom,22.44,2.9761,63.354,90.618,2018
+214,3M,United States,32.25,4.137,38.575,121.802,2018
+215,Amgen,United States,22.965,2.219,71.164,115.811,2018
+216,Marathon Petroleum,United States,71.577,3.436,50.364,35.717,2018
+217,Altria Group,United States,19.575,10.701,43.899,104.455,2018
+218,China Railway Construction,China,103.203,2.506,131.134,20.318,2018
+219,KB Financial Group,South Korea,29.004,3.0688,409.235,21.718,2018
+220,Cigna,United States,42.636,2.554,63.141,42.263,2018
+221,Micron Technology,United States,25.858,10.002,41.263,60.099,2018
+222,Denso,Japan,46.09,2.8923,54.202,40.571,2018
+223,JXTG Holdings,Japan,92.943,3.2655,79.526,22.027,2018
+224,Danske Bank,Denmark,18.349,3.0066,583.832,29.058,2018
+225,Delta Air Lines,United States,42.057,3.521,54.078,37.108,2018
+226,GlaxoSmithKline,United Kingdom,39.786,1.3715,78.78,98.558,2018
+227,People's Insurance,China,69.954,2.3783,147.374,20.213,2018
+228,DBS Group,Singapore,11.81,3.4182,404.108,56.58,2018
+229,Posco,South Korea,55.3,2.6179,75.638,26.782,2018
+230,E.ON,Germany,43.022,4.8813,67.926,24.173,2018
+231,Panasonic,Japan,72.02,2.1297,59.155,34.929,2018
+232,Fresenius,Germany,39.318,2.1,65.801,44.086,2018
+233,Repsol,Spain,49.739,2.2741,71.567,30.198,2018
+234,Travelers,United States,29.258,2.092,103.676,35.472,2018
+235,East Japan Railway,Japan,26.618,2.6072,76.612,37.892,2018
+236,Baoshan Iron & Steel,China,40.743,3.0788,56.219,31.673,2018
+237,Qatar National Bank,Qatar,13.818,3.6654,228.908,36.355,2018
+238,Volvo Group,Sweden,41.538,2.6256,53.051,37.09,2018
+239,Danone,France,27.834,2.7668,53.157,48.893,2018
+240,Thermo Fisher Scientific,United States,22.006,2.2525,56.58,87.123,2018
+241,McDonald's,United States,22.283,5.3529,33.723,129.86,2018
+242,Target,United States,71.879,2.934,38.999,37.649,2018
+243,Petrobras,Brazil,90.047,0.642,247.97,92.612,2018
+244,KBC Group,Belgium,13.791,2.8458,351.044,36.003,2018
+245,Midea Group,China,37.837,2.744,40.143,55.671,2018
+246,Shire,Ireland,15.348,4.434,67.869,50.304,2018
+247,HP,United States,54.173,3.853,35.245,37.276,2018
+248,EXOR,Netherlands,161.78,1.5701,196.661,18.291,2018
+249,National Grid,United Kingdom,18.388,3.3517,77.286,38.489,2018
+250,Central Japan Railway,Japan,16.44,3.5685,83.768,38.7,2018
+251,General Dynamics,United States,31.067,2.948,37.219,60.571,2018
+252,Canon,Japan,36.704,2.201,46.812,46.356,2018
+253,Sumitomo,Japan,43.555,2.7837,73.067,21.991,2018
+254,Orix,Japan,25.83,2.8253,107.438,23.102,2018
+255,BB&T,United States,12.281,2.761,220.729,42.933,2018
+256,Schneider Electric,France,27.908,2.4251,47.851,48.385,2018
+257,Air Liquide,France,22.953,2.519,49.266,55.116,2018
+258,Japan Tobacco,Japan,19.386,3.527,46.451,55.045,2018
+259,Peugeot,France,73.553,2.1758,69.793,21.43,2018
+260,Cathay Financial,Taiwan,23.562,1.8508,296.908,23.05,2018
+261,Anglo American,United Kingdom,26.2,3.1587,54.561,32.007,2018
+262,Bank of Beijing,China,15.887,2.8779,380.335,22.964,2018
+263,Seven & I Holdings,Japan,54.197,1.626,51.497,38.867,2018
+264,ABB,Switzerland,35.037,2.0572,43.57,51.263,2018
+265,Sun Life Financial,Canada,21.759,1.8395,205.995,25.872,2018
+266,Oil & Natural Gas,India,18.73,3.0568,65.546,35.72,2018
+267,Danaher,United States,18.819,2.5526,47.145,71.122,2018
+268,Sun Hung Kai Properties,Hong Kong,11.289,6.9492,86.955,46.87,2018
+269,Poly Real Estate,China,20.46,2.3585,120.983,25.647,2018
+270,Indian Oil,India,52.916,2.9601,46.624,24.448,2018
+271,Deere & Company,United States,30.537,1.4188,66.578,47.7,2018
+272,Diageo,United Kingdom,15.659,4.1288,40.72,89.382,2018
+273,Charles Schwab,United States,9.38,2.573,248.32,80.222,2018
+274,Shinhan Financial Group,South Korea,17.603,2.4901,406.602,21.152,2018
+275,HCA Holdings,United States,44.414,2.701,37.299,35.552,2018
+276,Tesco,United Kingdom,75.377,1.298,61.813,32.657,2018
+277,Aegon,Netherlands,35.249,2.5503,452.368,14.114,2018
+278,CRRC,China,31.313,1.64,59.187,41.01,2018
+279,Munich Re,Germany,63.438,0.7561,323.475,34.778,2018
+280,Royal Ahold Delhaize N.V.,Netherlands,72.399,2.183,42.239,28.776,2018
+281,SK Holdings,South Korea,82.526,1.484,102.543,20.034,2018
+282,BT Group,United Kingdom,30.788,2.1764,61.052,29.179,2018
+283,Reckitt Benckiser Group,United Kingdom,14.825,4.0373,50.069,54.961,2018
+284,Oversea-Chinese Banking,Singapore,10.078,3.159,351.232,41.166,2018
+285,Safran,France,19.107,4.4734,38.722,48.602,2018
+286,Southern Company,United States,23.779,1.152,111.567,45.453,2018
+287,CNP Assurances,France,45.817,1.3942,491.494,17.12,2018
+288,Accenture,Ireland,39.12,3.5893,23.133,101.016,2018
+289,Huaxia Bank,China,18.673,2.998,404.355,17.206,2018
+290,Inditex,Spain,28.907,3.8423,25.203,99.483,2018
+291,LyondellBasell Industries,United Kingdom,35.837,5.308,26.896,44.135,2018
+292,State Street,United States,11.79,2.335,250.286,37.275,2018
+293,Henkel,Germany,23.139,2.8806,36.203,54.101,2018
+294,Gree Electric Appliances,China,23.906,3.6166,34.707,45.11,2018
+295,Korea Electric Power,South Korea,52.91,1.1488,169.809,21.462,2018
+296,Johnson Controls International,Ireland,30.729,2.098,49.952,33.621,2018
+297,Saint-Gobain,France,46.031,1.7663,51.535,29.765,2018
+298,Mitsubishi Electric,Japan,39.981,2.4531,40.099,32.36,2018
+299,CaixaBank,Spain,11.657,2.3197,472.79,30.709,2018
+300,Baidu,China,13.413,3.517,42.829,94.126,2018
+301,Ecopetrol,Colombia,19.351,2.844,42.451,45.702,2018
+302,Dominion Resources,United States,12.662,3.007,77.354,42.22,2018
+303,Fubon Financial,Taiwan,26.589,1.779,232.059,17.813,2018
+304,Nippon Steel & Sumitomo Metal,Japan,51.146,1.76,71.391,19.94,2018
+305,Northrop Grumman,United States,26.271,2.114,34.795,56.727,2018
+306,Humana,United States,54.284,1.824,33.453,39.201,2018
+307,Nomura,Japan,17.795,1.9791,381.677,18.966,2018
+308,Merck,Germany,17.288,2.9326,43.304,43.268,2018
+309,Standard Chartered,United Kingdom,20.958,0.8926,663.501,34.411,2018
+310,Carnival,United States,17.951,2.645,41.441,47.412,2018
+311,United Overseas Bank,Singapore,9.385,2.625,277.933,36.9,2018
+312,China Resources Land,Hong Kong,15.481,2.9536,73.499,25.65,2018
+313,Bridgestone,Japan,32.945,2.6386,35.312,30.715,2018
+314,Raytheon,United States,25.615,2.151,30.497,61.423,2018
+315,RWE Group,Germany,47.863,2.1431,89.599,14.744,2018
+316,Hewlett Packard Enterprise,United States,31.158,1.513,61.619,27.445,2018
+317,Progressive,United States,27.986,1.8859,41.331,36.358,2018
+318,NN Group,Netherlands,19.87,2.3213,271.599,15.289,2018
+319,Japan Post Holdings,Japan,116.584,0.442,2586.797,54.55,2018
+320,ICICI Bank,India,18.455,1.1963,172.378,29.721,2018
+321,Canadian Natural Resources,Canada,14.401,2.1309,56.788,44.141,2018
+322,HDFC,India,10.684,2.5194,86.275,47.86,2018
+323,China Huarong Asset Management,China,18.155,3.2413,287.202,13.687,2018
+324,Archer Daniels Midland,United States,61.37,1.649,41.1,24.593,2018
+325,American Airlines Group,United States,42.984,1.871,53.28,19.943,2018
+326,Kroger,United States,122.662,1.89,37.806,20.985,2018
+327,Gas Natural Fenosa,Spain,27.184,1.6127,57.729,26.06,2018
+328,CRH,Ireland,28.45,2.16,37.985,30.874,2018
+329,AmÃ©rica MÃ³vil,Mexico,54.602,0.6243,78.732,57.779,2018
+330,Eli Lilly,United States,23.343,1.1241,44.356,89.494,2018
+331,Sompo,Japan,32.232,1.7288,111.38,16.434,2018
+332,DNB,Norway,9.027,2.709,340.472,31.661,2018
+333,BCE,Canada,17.862,2.2603,43.939,37.772,2018
+334,MS&AD Insurance,Japan,47.248,0.8778,202.958,20.257,2018
+335,Surgutneftegas,Russia,19.823,3.3372,74.498,17.192,2018
+336,SunTrust Banks,United States,9.858,2.449,204.885,32.185,2018
+337,PayPal,United States,13.807,1.922,42.322,94.041,2018
+338,Samsung Life Insurance,South Korea,25.303,1.032,264.019,21.449,2018
+339,CSX,United States,11.415,5.804,37.439,55.226,2018
+340,Synchrony Financial,United States,14.035,2.076,95.559,25.745,2018
+341,Greenland Holdings Group,China,44.798,1.4862,138.051,13.946,2018
+342,Rolls-Royce Holdings,United Kingdom,21.001,5.4179,40.585,21.072,2018
+343,Daiwa House Industry,Japan,34.25,2.1326,37.943,25.308,2018
+344,Nike,United States,35.261,1.804,22.552,110.288,2018
+345,Eaton,Ireland,20.807,3.036,32.668,33.44,2018
+346,American Electric,United States,15.527,1.7748,65.61,33.078,2018
+347,Natixis,France,10.696,1.776,624.4,26.002,2018
+348,Marubeni,Japan,68.034,1.87,64.665,13.951,2018
+349,Kering,France,17.458,2.014,30.713,74.464,2018
+350,Celgene,United States,13.509,2.814,34.556,61.277,2018
+351,Principal Financial Group,United States,13.987,2.3586,253.636,16.905,2018
+352,Linde,Germany,19.6,1.7588,40.815,39.744,2018
+353,Occidental Petroleum,United States,13.297,1.894,42.808,65.067,2018
+354,SingTel,Singapore,12.686,4.0813,36.551,43.293,2018
+355,Saudi Electricity,Saudi Arabia,13.496,1.842,118.86,23.542,2018
+356,Discover Financial Services,United States,11.865,2.17,101.967,26.302,2018
+357,United Continental Holdings,United States,38.348,2.182,44.018,18.555,2018
+358,Bank Of Shanghai,China,11.813,2.2681,292.047,19.112,2018
+359,Cardinal Health,United States,134.426,1.697,41.031,17.181,2018
+360,TransCanada,Canada,10.468,2.5298,69.041,39.085,2018
+361,Imperial Tobacco Group,United Kingdom,20.085,1.6233,42.47,35.746,2018
+362,Tyson Foods,United States,39.983,2.787,28.091,24.612,2018
+363,China Cinda Asset Management,China,15.71,2.6833,212.982,13.759,2018
+364,Telstra,Australia,19.907,2.9151,32.993,28.682,2018
+365,Wesfarmers,Australia,52.959,1.1559,31.651,37.669,2018
+366,Suzuki Motor,Japan,33.9,1.946,31.414,27.617,2018
+367,Mastercard,United States,13.343,4.326,22.944,201.894,2018
+368,EOG Resources,United States,12.465,3.1927,30.741,67.964,2018
+369,WPP,United Kingdom,19.659,2.3395,45.545,22.481,2018
+370,Starbucks,United States,23.466,4.3904,17.554,79.033,2018
+371,Femsa,Mexico,25.24,2.1031,31.286,31.199,2018
+372,Deutsche Lufthansa,Germany,41.518,2.7755,47.114,14.134,2018
+373,Automatic Data Processing,United States,13.072,1.7779,44.066,56.096,2018
+374,Citigroup,United States,90.469,-5.838,1922.104,185.788,2018
+375,Macquarie Group,Australia,10.29,1.8909,147.444,27.597,2018
+376,Standard Bank Group,South Africa,9.586,2.0162,163.807,28.534,2018
+377,Norfolk Southern,United States,10.693,5.519,36.162,43.059,2018
+378,Telecom Italia,Italy,22.365,1.2644,83.642,20.241,2018
+379,Lincoln National,United States,14.249,2.012,279.237,14.874,2018
+380,Southwest Airlines,United States,21.233,3.6,25.503,30.416,2018
+381,Sinohydro Group,China,41.183,1.1435,96.368,15.167,2018
+382,International Paper,United States,23.017,2.664,34.03,22.216,2018
+383,Philips,Netherlands,20.669,1.8113,30.398,39.073,2018
+384,First Abu Dhabi Bank,United Arab Emirates,7.277,2.8638,184.54,33.824,2018
+385,Tata Motors,India,43.028,1.7138,44.606,16.816,2018
+386,CenturyLink,United States,19.392,1.341,74.793,21.147,2018
+387,Freddie Mac,United States,73.514,6.34,2022.483,0.858,2018
+388,General Electric,United States,121.455,-7.838,358.109,126.806,2018
+389,PG&E,United States,16.923,1.526,68.154,22.372,2018
+390,Heineken Holding,Netherlands,24.688,1.102,51.243,28.45,2018
+391,Magna International,Canada,40.349,2.28,27.089,22.562,2018
+392,Etisalat,United Arab Emirates,14.243,2.3047,34.625,38.238,2018
+393,Komatsu,Japan,22.567,1.7721,31.712,31.074,2018
+394,Fannie Mae,United States,114.09,3.951,3364.402,1.494,2018
+395,Maybank,Malaysia,9.131,1.7492,189.103,29.577,2018
+396,Saudi Telecom,Saudi Arabia,13.577,2.7289,30.669,42.791,2018
+397,VTB Bank,Russia,24.101,1.977,225.969,10.97,2018
+398,Booking Holdings,United States,13.19,2.4924,25.019,99.874,2018
+399,Mitsui Fudosan,Japan,15.8,1.4064,59.25,25.362,2018
+400,Takeda Pharmaceutical,Japan,15.925,1.6959,39.153,33.396,2018
+401,Ameriprise Financial,United States,12.023,1.671,144.762,19.822,2018
+402,New China Life Insurance,China,22.089,0.937,114.442,20.391,2018
+403,Canadian National Railway,Canada,10.151,4.1613,30.063,58.419,2018
+404,Tata Consultancy Services,India,19.096,4.0061,16.298,98.445,2018
+405,Michelin Group,France,24.769,1.9051,30.341,25.537,2018
+406,Freeport-McMoRan,United States,17.604,2.256,36.637,23.572,2018
+407,Subaru,Japan,30.724,1.9882,27.121,25.285,2018
+408,Novo Nordisk,Denmark,17.302,6.0815,15.436,116.89,2018
+409,China Merchants Shekou Industrial Zone Holdings,China,10.643,2.3956,57.315,28.562,2018
+410,Bristol-Myers Squibb,United States,21.04,0.919,33.083,84.767,2018
+411,LG Electronics,South Korea,55.68,1.4825,38.673,16.452,2018
+412,Texas Instruments,United States,15.348,4.017,17.507,106.947,2018
+413,International Airlines,United Kingdom,25.954,2.2771,32.735,19.384,2018
+414,Tokyo Electric Power,Japan,52.791,2.8699,118.4,8.233,2018
+415,Bank Rakyat Indonesia,Indonesia,9.258,2.2139,81.296,27.69,2018
+416,Fosun International,China,13.073,1.9521,81.97,18.59,2018
+417,SK Innovation,South Korea,40.92,1.8609,31.987,17.866,2018
+418,Las Vegas Sands,United States,13.355,3.782,21.504,61.667,2018
+419,Fairfax Financial,Canada,14.949,2.3277,65.013,16.432,2018
+420,China Yangtze Power,China,7.446,3.3776,47.266,56.02,2018
+421,Abbott Laboratories,United States,28.445,0.466,70.908,107.4,2018
+422,Marriott International,United States,22.339,1.405,24.484,49.406,2018
+423,Bouygues,France,37.114,1.2238,42.962,18.768,2018
+424,Fifth Third Bancorp,United States,7.79,2.567,141.5,23.293,2018
+425,Biogen,United States,11.319,2.9644,26.09,59.587,2018
+426,SSE,United Kingdom,37.95,1.8027,30.019,19.351,2018
+427,Monsanto,United States,14.595,2.491,22.687,55.147,2018
+428,Cheung Kong Property Holdings,Hong Kong,7.765,3.8657,57.992,32.125,2018
+429,Andeavor,United States,38.636,1.65,28.841,21.181,2018
+430,Erste Group Bank,Austria,10.19,1.5492,282.895,18.969,2018
+431,AmerisourceBergen,United States,159.327,0.9051,38.396,19.097,2018
+432,Vivendi,France,14.036,1.384,41.227,36.086,2018
+433,SEB AB,Sweden,8.095,1.9119,346.666,21.453,2018
+434,Shin-Etsu Chemical,Japan,13.005,2.4021,27.347,44.416,2018
+435,Toyota Industries,Japan,18.081,1.5174,49.445,19.985,2018
+436,Hana Financial Group,South Korea,12.322,1.982,336.359,12.972,2018
+437,Bank Of Jiangsu,China,12.878,1.8383,285.716,13.158,2018
+438,Standard Life,United Kingdom,21.276,0.9002,261.487,14.772,2018
+439,Applied Materials,United States,15.463,2.866,19.663,57.62,2018
+440,General Motors,United States,144.421,-3.182,218.726,51.994,2018
+441,Mitsubishi Chemical,Japan,33.604,1.9106,44.199,13.417,2018
+442,Swedbank,Sweden,6.681,2.3086,294.827,25.271,2018
+443,Hyundai Mobis,South Korea,30.666,1.1462,39.615,20.989,2018
+444,Cisco Systems,United States,48.096,-1.445,131.51,221.269,2018
+445,Old Mutual,United Kingdom,13.28,1.1397,219.147,16.977,2018
+446,TJX Cos,United States,35.865,2.6079,14.058,52.718,2018
+447,Daikin Industries,Japan,20.667,1.7057,23.413,36.015,2018
+448,Couche Tard,Canada,47.213,1.535,22.942,23.649,2018
+449,Kansai Electric Power,Japan,28.274,1.3704,65.68,12.987,2018
+450,Poste Italiane,Italy,37.719,0.7771,243.366,12.714,2018
+451,ASML Holding,Netherlands,10.978,2.6925,22.93,85.378,2018
+452,American International Group,United States,50.275,-6.331,499.143,47.443,2018
+453,Chinatrust Financial,Taiwan,14.558,1.2235,179.469,14.359,2018
+454,Vodafone,United Kingdom,48.206,-0.0198,173.874,75.957,2018
+455,National Commercial Bank,Saudi Arabia,5.951,2.6895,116.668,35.349,2018
+456,Wilmar International,Singapore,43.822,1.2155,40.933,14.969,2018
+457,Adidas,Germany,24.914,1.6711,18.208,46.154,2018
+458,Pernod Ricard,France,10.186,1.834,35.78,43.629,2018
+459,Sampo,Finland,7.845,2.5254,58.881,29.186,2018
+460,Svenska Handelsbanken,Sweden,6.8,1.9169,353.867,22.636,2018
+461,Sysco,United States,57.832,1.287,18.629,32.728,2018
+462,Dell Technologies,United States,78.737,-3.728,122.281,57.178,2018
+463,Sunac China Holdings,China,10.046,1.653,95.685,19.573,2018
+464,DXC Technology,United States,20.151,1.043,33.582,29.883,2018
+465,Consolidated Edison,United States,12.17,1.565,48.9,23.873,2018
+466,BAE Systems,United Kingdom,23.595,1.0998,30.373,27.45,2018
+467,Fujifilm Holdings,Japan,21.756,1.577,31.341,19.988,2018
+468,Kweichow Moutai,China,8.538,4.4456,21.362,142.391,2018
+469,Swiss Life Holding,Switzerland,19.367,1.0231,218.561,12.263,2018
+470,FirstRand,South Africa,6.707,1.9377,104.337,30.278,2018
+471,Larsen & Toubro,India,17.789,1.1099,34.387,28.889,2018
+472,IntercontinentalExchange,United States,5.945,2.476,82.062,41.368,2018
+473,Toyota Tsusho,Japan,58.566,1.175,40.527,13.142,2018
+474,LG Chem,South Korea,22.731,1.7207,23.391,24.717,2018
+475,Centene,United States,49.852,1.029,25.17,23.481,2018
+476,SK Telecom,South Korea,15.721,2.42,33.9,16.979,2018
+477,Asahi Group Holdings,Japan,19.379,1.3806,28.986,25.313,2018
+478,Formosa Petrochemical,Taiwan,21.399,2.5296,16.029,40.173,2018
+479,Sumitomo Mitsui Trust,Japan,11.346,1.0176,570.031,16.324,2018
+480,Barclays,United Kingdom,27.142,-2.1738,1533.001,49.718,2018
+481,Emerson Electric,United States,16.538,1.777,19.785,45.366,2018
+482,Credit Suisse Group,Switzerland,32.741,-0.9159,844.888,43.717,2018
+483,Paccar,United States,20.852,1.877,23.782,22.442,2018
+484,Waste Management,United States,14.556,2.047,22.106,35.784,2018
+485,Samsung C&T,South Korea,27.05,0.744,45.817,23.009,2018
+486,Woolworths,Australia,43.255,1.3623,18.602,28.273,2018
+487,Richemont,Switzerland,12.328,1.82,22.775,54.52,2018
+488,Loews,United States,13.825,1.162,80.786,16.506,2018
+489,Bank Mandiri,Indonesia,8.11,1.6684,79.774,24.086,2018
+490,State Bank of India,India,46.178,0.0012,535.022,33.275,2018
+491,Swire Pacific,Hong Kong,10.303,3.3454,53.868,15.141,2018
+492,Citic Securities,China,6.116,1.786,104.848,35.781,2018
+493,Telenor,Norway,14.957,1.5763,25.022,32.374,2018
+494,Longfor Properties,China,10.818,1.8756,55.707,17.727,2018
+495,Deutsche Bank,Germany,44.563,-1.4152,1817.435,28.724,2018
+496,HeidelbergCement,Germany,19.475,1.035,42.526,18.954,2018
+497,Public Service Enterprise Group,United States,9.132,2.018,42.79,25.842,2018
+498,Sherwin-Williams,United States,16.187,1.7832,20.368,35.649,2018
+499,General Mills,United States,15.657,2.1855,22.241,25.293,2018
+500,Marsh & McLennan,United States,14.536,1.613,21.379,41.387,2018
+501,Aisin Seiki,Japan,35.269,1.214,33.173,14.857,2018
+502,JFE Holdings,Japan,33.191,1.305,41.945,12.463,2018
+503,Tenaga Nasional,Malaysia,11.043,1.923,35.65,23.084,2018
+504,Swiss Re,Switzerland,42.295,0.3511,214.584,29.931,2018
+505,Kirin Holdings,Japan,16.621,2.1587,21.066,25.532,2018
+506,BOE Technology Group,China,14.013,1.084,41.758,24.074,2018
+507,Wheelock,Hong Kong,9.105,2.6396,72.873,14.84,2018
+508,Talanx,Germany,37.965,0.758,182.649,10.544,2018
+509,Sasol,South Africa,13.202,1.3977,32.866,24.895,2018
+510,Metallurgical Corp of China,China,38.159,0.952,67.034,11.395,2018
+511,CLP Holdings,Hong Kong,11.815,1.8285,29.185,26.504,2018
+512,NTPC,India,11.986,1.5986,39.83,20.53,2018
+513,Citizens Financial Group,United States,6.777,1.72,153.453,20.552,2018
+514,EnBW-Energie Baden,Germany,24.785,2.3169,49.909,9.382,2018
+515,Investor AB,Sweden,6.584,2.1964,49.816,33.927,2018
+516,CME Group,United States,3.824,4.2624,69.919,54.24,2018
+517,Compass Group,United Kingdom,29.78,1.5133,15.996,32.365,2018
+518,British Sky Broadcasting,United Kingdom,17.055,1.0599,25.361,31.637,2018
+519,Edp-energias De Portugal,Portugal,17.76,1.2556,50.524,13.501,2018
+520,Schlumberger,United States,31.375,-1.259,71.478,98.455,2018
+521,Fujitsu,Japan,36.978,1.5279,29.351,12.779,2018
+522,Anhui Conch Cement,China,11.998,2.7942,19.772,32.269,2018
+523,Ecolab,United States,14.148,1.5022,20.184,42.456,2018
+524,China Taiping Insurance,Hong Kong,25.413,0.7547,83.994,13.049,2018
+525,Xcel Energy,United States,11.399,1.1994,43.159,23.031,2018
+526,First Data,United States,11.533,1.53,45.415,18.035,2018
+527,KeyCorp,United States,6.933,1.39,137.049,21.509,2018
+528,Williams,United States,8.131,1.953,47.052,22.461,2018
+529,National Bank of Canada,Canada,7.238,1.54,204.642,16.815,2018
+530,ConocoPhillips,United States,30.274,-0.553,70.727,81.25,2018
+531,Naspers,South Africa,6.248,3.4832,24.071,112.824,2018
+532,Grupo ACS,Spain,39.363,0.9046,38.282,13.588,2018
+533,Thales,France,17.816,0.9268,28.017,28.03,2018
+534,China Unicom,Hong Kong,40.672,0.2619,88.547,42.488,2018
+535,Illinois Tool Works,United States,14.587,1.803,16.163,49.388,2018
+536,M&T Bank,United States,6.106,1.411,118.622,26.966,2018
+537,Orsted,Denmark,9.734,2.8486,24.376,26.998,2018
+538,China Zheshang Bank,China,10.658,1.5218,235.988,10.969,2018
+539,Kimberly-Clark,United States,18.507,1.808,15.303,36.645,2018
+540,Atlas Copco,Sweden,13.222,2.0473,16.075,49.52,2018
+541,Bank of Ningbo,China,8.089,1.4781,169.851,14.534,2018
+542,Associated British Foods,United Kingdom,20.3,1.3675,17.803,29.505,2018
+543,Stryker,United States,12.73,1.019,22.133,63.337,2018
+544,Newell Brands,United States,14.493,2.1636,33.469,13.142,2018
+545,MTR,Hong Kong,7.114,2.1596,33.742,34.753,2018
+546,DISH Network,United States,14.17,2.0905,30.155,14.666,2018
+547,Kubota,Japan,16.036,1.2517,25.841,21.132,2018
+548,GFNorte,Mexico,9.14,1.3584,76.21,16.128,2018
+549,Colgate-Palmolive,United States,15.694,2.088,13.144,54.703,2018
+550,Woori Bank,South Korea,12.477,1.212,295.451,9.822,2018
+551,Novatek,Russia,10.49,2.2197,18.922,37.876,2018
+552,WestRock,United States,15.665,1.8822,25.44,15.651,2018
+553,China Southern Airlines,China,19.718,1.049,34.971,14.61,2018
+554,Praxair,United States,11.708,1.32,20.592,45.298,2018
+555,Thomson Reuters,Canada,11.331,1.3832,26.48,26.795,2018
+556,Dollar Tree,United States,22.246,1.7143,16.476,22.283,2018
+557,Regions Financial,United States,6.132,1.376,122.913,21.699,2018
+558,Resona Holdings,Japan,6.169,2.1316,472.438,13.173,2018
+559,Asahi Kasei,Japan,18.426,1.5361,21.778,18.758,2018
+560,Qualcomm,United States,22.605,-4.556,64.126,81.885,2018
+561,Swisscom,Switzerland,12.071,1.6258,23.858,23.85,2018
+562,Northern Trust,United States,5.94,1.285,129.672,24.506,2018
+563,Al Rajhi Bank,Saudi Arabia,4.459,2.4751,93.132,34.919,2018
+564,Mitsubishi Estate,Japan,9.736,0.8762,51.403,25.742,2018
+565,Qingdao Haier,China,24.642,1.0814,24.561,17.278,2018
+566,Mapfre,Spain,24.913,0.7962,78.743,10.655,2018
+567,Emirates NBD,United Arab Emirates,6.06,2.2511,129.493,15.509,2018
+568,Samsung Fire & Marine,South Korea,17.579,0.855,69.871,11.959,2018
+569,Bank of Nanjing,China,8.507,1.524,187.454,11.583,2018
+570,TE Connectivity,Switzerland,14.048,1.319,19.247,33.116,2018
+571,American Tower,United States,6.79,1.208,34.373,61.329,2018
+572,NVIDIA,United States,10.984,3.783,11.46,154.509,2018
+573,Cognizant,United States,15.176,1.467,15.045,44.868,2018
+574,Bank Central Asia,Indonesia,5.164,1.7732,55.218,40.208,2018
+575,Mitsubishi Heavy Industries,Japan,37.09,0.636,51.6,12.776,2018
+576,MGM Resorts,United States,10.888,1.9539,29.298,17.706,2018
+577,Tatneft,Russia,11.949,2.1111,19.236,25.551,2018
+578,Fast Retailing,Japan,18.232,1.1328,15.196,45.728,2018
+579,DTE Energy,United States,12.971,1.093,33.841,18.593,2018
+580,Formosa Chemicals,Taiwan,12.276,1.8566,21.142,22.446,2018
+581,Grupo Mexico,Mexico,10.199,1.6812,26.7,22.591,2018
+582,Allergan,Ireland,16.04,-1.8464,112.021,52.104,2018
+583,H&M,Sweden,23.71,1.7972,13.07,26.741,2018
+584,KIA Motors,South Korea,47.932,0.5712,49.551,12.71,2018
+585,New World Development,Hong Kong,7.635,1.8748,59.885,14.953,2018
+586,Recruit Holdings,Japan,19.228,1.3053,13.625,42.781,2018
+587,MÃ¸ller-Maersk,Denmark,34.703,-1.1508,63.371,35.057,2018
+588,Industrial Bank of Korea,South Korea,11.1,1.416,256.008,8.89,2018
+589,Rogers Communications,Canada,11.249,1.4352,23.406,24.763,2018
+590,Reinsurance Group of America,United States,12.699,1.7769,60.955,9.785,2018
+591,Nidec,Japan,13.426,1.1889,16.631,46.921,2018
+592,PPG,United States,15.05,1.647,16.538,25.04,2018
+593,Constellation Brands,United States,7.586,2.3189,20.539,41.635,2018
+594,RELX Group,United Kingdom,9.472,2.1365,16.616,43.397,2018
+595,Fidelity National Information,United States,8.934,1.363,24.405,34.72,2018
+596,Chubu Electric Power,Japan,25.744,0.671,52,12.049,2018
+597,Simon Property Group,United States,5.567,1.952,31.018,49.518,2018
+598,Dongfeng Motor Group,China,18.531,2.0814,32.631,9.714,2018
+599,Sumitomo Electric,Japan,27.81,1.0857,28.371,12.086,2018
+600,Suning Appliance,China,30.09,0.6406,25.742,19.709,2018
+601,China Eastern Airlines,China,15.675,0.834,36.154,15.518,2018
+602,Ally Financial,United States,10.088,0.965,170.021,11.456,2018
+603,Netflix,United States,12.757,0.6708,20.153,141.91,2018
+604,Cummins,United States,21.409,0.928,18.392,24.098,2018
+605,Sumitomo Realty,Japan,8.557,1.0803,48.772,19.253,2018
+606,Teck Resources,Canada,9.541,2.1005,29.392,15.956,2018
+607,Henderson Land,Hong Kong,3.248,3.9053,52.651,25.868,2018
+608,LafargeHolcim,Switzerland,26.546,-1.7018,65.345,31.558,2018
+609,Atlantia,Italy,6.14,1.3217,48.707,27.516,2018
+610,China Fortune Land Development,China,8.479,1.4052,59.702,13.444,2018
+611,Evonik,Germany,16.846,0.9968,25.035,17.416,2018
+612,Kyocera,Japan,14.229,0.738,29.686,22.817,2018
+613,Astellas Pharma,Japan,11.732,1.4858,17.473,30.083,2018
+614,Aeon,Japan,75.31,0.2201,88.588,16.519,2018
+615,Dollar General,United States,23.471,1.539,12.602,25.141,2018
+616,Nucor,United States,21.006,1.3114,16.121,20.078,2018
+617,Nan Ya Plastics,Taiwan,10.529,1.9048,19.653,22.653,2018
+618,Zimmer Biomet,United States,7.864,1.7149,27.181,23.669,2018
+619,Ingersoll Rand,Ireland,14.582,1.3059,18.365,22.024,2018
+620,Banco de Sabadell,Spain,8.355,0.9871,269.355,11.544,2018
+621,CIMB Group Holdings,Malaysia,6.639,1.0409,125.307,16.358,2018
+622,Raiffeisen Bank International,Austria,8.107,1.2357,162.284,11.184,2018
+623,Siam Commercial Bank,Thailand,6.807,1.2889,97.713,14.285,2018
+624,Omnicom Group,United States,15.316,1.1096,23.513,17.065,2018
+625,Covestro,Germany,16.747,2.5534,13.851,18.441,2018
+626,CBS,United States,14.11,1.214,20.591,19.905,2018
+627,Adobe Systems,United States,7.683,1.8786,14.973,119.119,2018
+628,Kotak Mahindra Bank,India,6.024,0.9619,51.78,35.838,2018
+629,Royal Caribbean Cruises,United States,8.797,1.6291,23.971,22.67,2018
+630,Aon,United Kingdom,10.694,0.742,27.847,35.232,2018
+631,Otsuka Holding,Japan,11.318,1.0304,22.786,26.038,2018
+632,Murata Manufacturing,Japan,12.378,1.3181,16.897,29.46,2018
+633,Nokia,Finland,26.521,-1.3953,48.288,35.678,2018
+634,T&D Holdings,Japan,16.215,0.6017,135.548,10.331,2018
+635,Axis Bank,India,8.59,0.5895,94.18,21.108,2018
+636,Daqin Railway,China,9.193,2.1554,20.905,20.7,2018
+637,Suncorp Group,Australia,10.731,0.7589,76.54,13.609,2018
+638,Valeo,France,20.923,0.9993,20.917,16.249,2018
+639,PPL,United States,7.622,1.175,42.388,19.448,2018
+640,All Nippon Airways,Japan,17.791,1.2982,24.095,12.77,2018
+641,Vonovia,Germany,3.813,2.8167,54.331,24.101,2018
+642,Best Buy,United States,42.151,1,13.279,21.926,2018
+643,CNH Industrial,United Kingdom,28.425,0.427,49.809,16.942,2018
+644,Cenovus Energy,Canada,14.112,1.0503,30.878,13.446,2018
+645,Coal India,India,12.612,1.2963,17.779,24.957,2018
+646,Public Bank,Malaysia,4.726,1.3493,102.948,23.342,2018
+647,Garanti Bank,Turkey,9.507,1.6557,92.869,8.957,2018
+648,Falabella,Chile,13.838,0.7853,23.367,23.573,2018
+649,NXP Semiconductors,Netherlands,9.314,0.968,24.127,34.024,2018
+650,JD.com,China,53.861,-0.0231,28.264,44.463,2018
+651,Sinopharm Group,China,41.11,0.7808,26.035,11.747,2018
+652,Mylan,United Kingdom,11.866,0.7167,35.184,19.797,2018
+653,Infosys,India,10.939,2.4863,12.254,38.332,2018
+654,Siam Cement,Thailand,13.701,1.5145,18.684,17.708,2018
+655,Lennar,United States,13.296,0.8998,27.944,17.681,2018
+656,Hartford Financial Services,United States,18.482,0.283,216.666,18.824,2018
+657,Ageas,Belgium,12.86,0.7029,123.234,10.601,2018
+658,Akzo Nobel,Netherlands,13.869,0.9875,20.395,22.441,2018
+659,Unibail-Rodamco,France,2.344,2.7516,51.924,23.322,2018
+660,Nintendo,Japan,9.525,1.259,15.362,59.796,2018
+661,Norilsk Nickel,Russia,9.15,2.1308,16.635,27.523,2018
+662,Viacom,United States,12.904,2.16,22.994,12.161,2018
+663,Iqvia Holdings,United States,9.981,1.304,23.235,21.396,2018
+664,Devon Energy,United States,14.329,0.635,29.316,21.433,2018
+665,Capgemini,France,14.429,0.9249,19.26,23.263,2018
+666,Weichai Power,China,23.425,1.1426,31.19,9.577,2018
+667,Transneft,Russia,15.161,3.291,50.485,4.391,2018
+668,The EstÃ©e Lauder Companies,United States,13.282,1.151,12.772,51.455,2018
+669,Becton Dickinson,United States,13.503,0.047,54.573,60.185,2018
+670,Sekisui House,Japan,19.314,1.1916,22.161,12.65,2018
+671,Yanzhou Coal Mining,China,21.183,1.1,31.685,9.899,2018
+672,Bharat Petroleum,India,30.012,1.3005,17.028,12.873,2018
+673,Kellogg,United States,13.07,1.451,16.702,21.293,2018
+674,Molson Coors Brewing,United States,10.886,1.4702,30.184,13.1,2018
+675,Porsche Automobil Holding,Germany,0.038,3.7583,38.061,25.663,2018
+676,Republic Services,United States,10.078,1.3282,21.109,22.27,2018
+677,Isbank,Turkey,14.297,1.576,115.755,6.168,2018
+678,Toray Industries,Japan,19.894,0.8654,24.381,13.655,2018
+679,Kinder Morgan,United States,13.707,0.261,79.011,36.422,2018
+680,West Japan Railway,Japan,13.538,0.9969,28.895,14.182,2018
+681,TELUS,Canada,10.171,1.1248,23.583,21.251,2018
+682,ZTE,China,16.776,0.765,22.115,19.454,2018
+683,Geely Automobile Holdings,Hong Kong,13.769,1.5795,13.05,26.925,2018
+684,Stanley Black & Decker,United States,13.151,1.0035,19.683,22.174,2018
+685,Carrefour,France,91.334,-0.5989,57.414,15.035,2018
+686,Kao Corp,Japan,13.488,1.3589,12.765,34.429,2018
+687,Lam Research,United States,10.3,1.886,13.663,33.063,2018
+688,WEC Energy Group,United States,7.63,1.2384,31.786,19.529,2018
+689,Deutsche Boerse,Germany,3.375,0.9854,179.688,25.965,2018
+690,Commerzbank,Germany,16.153,0.1602,547.945,16.146,2018
+691,Guangzhou Automobile Group,China,10.819,1.646,18.832,18.554,2018
+692,Legend Holding,China,46.9,0.7462,51.455,7.669,2018
+693,Cnpc Capital,China,4.966,1.1068,130.779,18.789,2018
+694,BYD,China,16.333,0.532,28.942,21.445,2018
+695,Air Products & Chemicals,United States,8.697,1.1416,18.511,36.45,2018
+696,Guotai Junan Securities,China,3.74,1.447,72.201,24.009,2018
+697,Publicis Groupe,France,10.93,0.9723,28.555,16.784,2018
+698,Eversource Energy,United States,7.935,0.9981,37.04,18.392,2018
+699,Sodexo,France,23.495,0.8621,19.109,14.829,2018
+700,Aptiv,United Kingdom,15.721,1.327,12.56,25.476,2018
+701,Lotte Chemical,South Korea,14.403,1.9176,18.263,12.404,2018
+702,Sanlam,South Africa,8.875,0.8209,58.697,13.411,2018
+703,DSM,Netherlands,10.41,2.28,16.269,17.831,2018
+704,Teva Pharmaceutical,Israel,21.83,-15.8364,69.181,19.596,2018
+705,Sumitomo Chemical,Japan,19.493,1.2371,27.726,9.442,2018
+706,Altice,Netherlands,26.506,-0.6159,86.982,15.853,2018
+707,CGN Power,China,6.87,1.3984,55.21,12.506,2018
+708,Solvay,Belgium,13.221,0.9666,25.758,14.327,2018
+709,Parker-Hannifin,United States,13.981,1.0008,16.237,23.284,2018
+710,Kasikornbank,Thailand,5.843,1.057,95.762,14.653,2018
+711,Idemitsu Kosan,Japan,32.05,1.5395,25.79,7.653,2018
+712,Huntington Bancshares,United States,4.874,1.3039,104.246,16.67,2018
+713,Athene Holding,Bermuda,8.154,1.332,93.557,9.294,2018
+714,PKN Orlen,Poland,26.497,1.599,17.544,10.366,2018
+715,WH Group,Hong Kong,22.381,1.133,15.258,14.9,2018
+716,Credicorp,Peru,5.451,1.3055,52.85,18.04,2018
+717,KoÃ§ Holding,Turkey,27.11,1.346,27.616,7.965,2018
+718,George Weston,Canada,37.582,0.6482,29.976,10.427,2018
+719,Baxter International,United States,10.763,0.832,16.89,37.762,2018
+720,Telkom Indonesia,Indonesia,9.642,1.5769,15.006,25.777,2018
+721,Husky Energy,Canada,15.424,0.7503,25.819,14.363,2018
+722,Essity Ab,Sweden,13.428,0.9729,18.569,18.717,2018
+723,Teliasonera,Sweden,9.646,0.6739,30.112,21.94,2018
+724,ThyssenKrupp Group,Germany,46.861,-0.9418,40.671,17.258,2018
+725,Guangzhou R&F,China,8.827,3.2549,45.778,7.775,2018
+726,Coca-Cola European Partners,United Kingdom,12.902,0.7659,22.361,18.777,2018
+727,Edison International,United States,12.421,0.421,51.943,20.295,2018
+728,Sandvik,Sweden,11.127,1.6612,13.447,23.013,2018
+729,Macy's,United States,24.837,1.548,20.052,9.068,2018
+730,Haitong Securities,China,4.19,1.224,91.068,19.415,2018
+731,Ferguson,Switzerland,18.585,1.203,12.676,18.876,2018
+732,Eiffage,France,17.216,0.6147,36.168,11.525,2018
+733,Norsk Hydro,Norway,15.54,1.1222,20.224,12.379,2018
+734,Ross Stores,United States,14.135,1.3628,5.886,31.025,2018
+735,Liberty Global,United Kingdom,14.775,-3.6444,58.312,24.388,2018
+736,Huatai Securities,China,3.149,1.49,63.538,19.569,2018
+737,Unum,United States,11.39,1.0378,63.012,8.394,2018
+738,Fanuc,Japan,6.556,1.6417,16.258,41.825,2018
+739,Mazda Motor,Japan,31.345,1.0115,25.652,8.426,2018
+740,ROSSETI,Russia,16.258,1.7541,42.247,2.691,2018
+741,UPM-Kymmene,Finland,11.733,1.2177,15.912,19.76,2018
+742,Annaly Capital Management,United States,2.664,2.4569,100.382,12.072,2018
+743,Halliburton,United States,22.081,-0.385,25.191,45.796,2018
+744,Prologis,United States,2.683,1.8148,29.671,34.836,2018
+745,Huaneng Power International,China,23.71,0.361,60.809,13.633,2018
+746,Tokyo Electron,Japan,10.202,1.844,11.365,32.884,2018
+747,Shimao Property Holdings,Hong Kong,10.4,1.1607,47.23,9.238,2018
+748,LG Corp,South Korea,9.111,2.1193,20.221,13.331,2018
+749,Toshiba,Japan,38.674,-3.6217,39.864,17.04,2018
+750,Akbank,Turkey,7.605,1.665,89.802,7.945,2018
+751,London Stock Exchange,United Kingdom,2.518,0.6825,1003.714,20.897,2018
+752,OMV Group,Austria,22.999,0.1496,39.805,21.456,2018
+753,Uniper,Germany,82.983,-1.49,51.903,11.88,2018
+754,China Energy Engineering,China,34.753,0.7808,52.808,4.668,2018
+755,Veolia Environnement,France,28.339,0.3765,46.002,13.596,2018
+756,Hong Kong Exchanges,Hong Kong,1.829,1.0564,39.205,41.281,2018
+757,Ericsson,Sweden,23.776,-3.0143,31.127,26.119,2018
+758,LabCorp,United States,10.843,1.2492,16.832,17.999,2018
+759,Allied Irish Banks,Ireland,3.786,1.2148,108.146,16.243,2018
+760,Shanghai International Port,China,5.57,1.8175,22.647,24.694,2018
+761,Bancolombia,Colombia,7.417,0.8858,68.322,11.547,2018
+762,AMP,Australia,12.751,0.65,115.825,8.121,2018
+763,Daiwa Securities,Japan,6.429,0.9977,198.794,9.786,2018
+764,China Reinsurance Group,China,15.789,0.7761,36.536,9.362,2018
+765,CenterPoint Energy,United States,9.868,1.765,22.41,11.512,2018
+766,Abertis,Spain,5.922,1.0122,35.821,19.87,2018
+767,Taisei,Japan,14.305,1.144,18.155,12.425,2018
+768,Sempra Energy,United States,11.128,0.191,60.485,28.284,2018
+769,TD Ameritrade Holding,United States,4.571,1.01,38.554,34.938,2018
+770,Grupa PZU,Poland,8.67,0.771,90.985,9.728,2018
+771,Qurate Retail,United States,11.307,2.318,18.715,10.514,2018
+772,ITC,India,8.737,1.5344,8.615,51.489,2018
+773,Isuzu Motors,Japan,18.445,0.97,17.841,12.043,2018
+774,Grupo Aval,Colombia,10.273,0.694,79.781,9.519,2018
+775,Hilton,United States,9.053,1.346,14.26,25.088,2018
+776,Steinhoff International,Netherlands,18.124,1.359,37.081,0.574,2018
+777,Rakuten,Japan,8.79,0.9288,61.13,9.587,2018
+778,LG Display,South Korea,23.764,0.9989,28.141,7.796,2018
+779,Sabanci Holding,Turkey,12.151,1.0551,91.818,4.693,2018
+780,Lear,United States,21.206,1.3304,12.681,12.931,2018
+781,VMware,United States,7.921,0.569,20.693,58.378,2018
+782,Chunghwa Telecom,Taiwan,7.557,1.2675,16.054,28.414,2018
+783,Sharp,Japan,21.9,0.634,17.947,14.714,2018
+784,Neste Oil,Finland,16.096,1.2352,9.889,20.583,2018
+785,Dentsu,Japan,8.283,0.9406,31.628,13.402,2018
+786,DR Horton,United States,15.063,1.1425,13.218,16.557,2018
+787,GF Securities,China,2.912,1.202,61.643,17.722,2018
+788,Pioneer Natural Resources,United States,6.964,1.045,17.323,34.455,2018
+789,Japan Airlines,Japan,12.481,1.2217,17.435,12.865,2018
+790,TUI,Germany,21.34,0.7773,15.602,13.982,2018
+791,Barrick Gold,Canada,8.18,0.9696,25.396,15.727,2018
+792,Eastman Chemical,United States,9.827,1.486,16.366,15.237,2018
+793,Luxottica Group,Italy,10.329,1.1713,12.059,30.008,2018
+794,YPF,Argentina,15.474,1.0471,27.432,8.498,2018
+795,CEZ Group,Czech Republic,8.498,0.8033,30.253,14.133,2018
+796,Entergy,United States,11.082,0.4755,47.282,14.258,2018
+797,Anadarko Petroleum,United States,11.094,-0.025,41.076,35.186,2018
+798,Ferrovial,Spain,13.77,0.5114,27.606,15.67,2018
+799,Western Digital,United States,20.372,0.199,29.004,23.58,2018
+800,CSL,Australia,7.355,1.6095,10.4,59.997,2018
+801,Formosa Plastics,Taiwan,6.795,1.6232,15.998,23.209,2018
+802,Scentre Group,Australia,1.893,3.2331,29.265,16.472,2018
+803,Great Wall Motor,China,15.2,0.789,17.406,13.907,2018
+804,Rockwell Collins,United States,8.478,0.909,18.3,22.056,2018
+805,Bankia,Spain,3.952,0.8659,257.098,13.71,2018
+806,Galp Energia,Portugal,17.837,0.7126,14.964,16.952,2018
+807,Samba Financial Group,Saudi Arabia,2.265,1.3587,61.043,14.815,2018
+808,Tokyo Gas,Japan,16.036,0.6766,21.953,12.192,2018
+809,National Bank of Kuwait,Kuwait,3.762,1.0438,89.396,14.983,2018
+810,Mitsubishi Motors,Japan,19.781,0.971,15.565,11.702,2018
+811,Tesla,United States,12.471,-2.3407,27.271,51.118,2018
+812,Uni-President,Taiwan,13.607,1.3227,14.132,13.365,2018
+813,Ryanair Holdings,Ireland,7.897,1.6374,13.966,21.308,2018
+814,Fortum,Finland,5.695,1.0693,26.162,21.294,2018
+815,Oneok,United States,12.678,0.565,16.432,27.057,2018
+816,Chongqing Rural Bank,China,6.717,1.3713,142.859,7.096,2018
+817,Link REIT,Hong Kong,1.234,3.0706,24.558,18.529,2018
+818,ItaÃºsa,Brazil,1.556,2.632,19.77,26.77,2018
+819,PTT Global Chemical,Thailand,13.562,1.1648,14.281,13.413,2018
+820,Essilor International,France,8.448,0.8899,14.77,29.848,2018
+821,Kajima,Japan,17.087,1.1625,16.884,9.983,2018
+822,Centrica,United Kingdom,36.089,0.4288,27.959,11.186,2018
+823,NetEase,China,8.009,1.5759,10.908,35.157,2018
+824,Keyence,Japan,4.754,1.9001,13.975,75.836,2018
+825,S-Oil,South Korea,18.993,0.9378,15.264,11.54,2018
+826,Mahindra & Mahindra,India,14.011,1.134,12.415,16.054,2018
+827,Bharti Airtel,India,12.982,0.1705,38.42,22.912,2018
+828,Bank of East Asia,Hong Kong,3.573,1.1224,103.481,12.25,2018
+829,Bangkok Bank,Thailand,4.939,1.0198,101.5,11.387,2018
+830,Fortis (Canada),Canada,6.408,0.8235,38.071,13.907,2018
+831,Banco BPM,Italy,5.195,2.951,193.577,5.334,2018
+832,Galaxy Entertainment,Hong Kong,8.014,1.348,10.722,38.224,2018
+833,Abitare In Spa,Italy,21.546,0.9185,32.669,0.069,2018
+834,Braskem,Brazil,15.43,1.2788,16.081,10.066,2018
+835,Hikvision,China,6.617,1.4706,7.98,58.238,2018
+836,Comerica,United States,3.321,0.817,72.335,16.832,2018
+837,Kyushu Electric Power,Japan,17.688,0.7819,44.289,5.617,2018
+838,Stora Enso,Finland,11.835,0.9174,14.541,16.267,2018
+839,Kone,Finland,10.681,1.114,8.353,25.725,2018
+840,Raymond James Financial,United States,7.019,0.7372,36.031,13.676,2018
+841,First Republic Bank,United States,3.095,0.78,90.224,15.76,2018
+842,Infineon Technologies,Germany,8.486,1.275,,32.351,2018
+843,Assa Abloy,Sweden,9.176,1.0404,12.522,24.701,2018
+844,HermÃ¨s International,France,6.259,1.3778,8.127,72.65,2018
+845,PKO Bank Polski,Poland,4.229,0.8224,85.447,14.856,2018
+846,Aena,Spain,4.686,1.4751,18.871,31.801,2018
+847,Restaurant Brands International,Canada,4.825,1.3426,20.76,26.164,2018
+848,Schaeffler,Germany,16.358,1.0997,14.58,10.731,2018
+849,Canadian Pacific Railway,Canada,5.152,1.8091,15.76,26.685,2018
+850,China Hongqiao Group,China,13.814,0.7638,24.281,9.651,2018
+851,Analog Devices,United States,5.642,0.7748,20.853,34.244,2018
+852,Hanwha,South Korea,44.586,0.359,149.638,2.882,2018
+853,Weyerhaeuser,United States,7.38,0.694,17.885,27.722,2018
+854,S&P Global,United States,6.177,1.588,8.497,50.257,2018
+855,Shaanxi Coal Industry,China,7.322,1.602,17.355,13.545,2018
+856,Salesforce.com,United States,10.48,0.1275,21.01,96.987,2018
+857,Willis Towers Watson,United Kingdom,8.134,0.439,34.212,20.484,2018
+858,ATOS,France,14.315,0.6775,16.192,13.904,2018
+859,Apache,United States,6.103,1.236,21.791,15.825,2018
+860,S.F. Holding,China,11.464,0.7532,9.337,34.315,2018
+861,Novolipetsk Steel,Russia,10.701,1.6251,11.23,15.339,2018
+862,AutoZone,United States,11.134,1.3361,9.404,17.778,2018
+863,Kuehne & Nagel International,Switzerland,18.891,0.7488,7.652,18.406,2018
+864,CarMax,United States,17.12,0.6641,17.57,11.361,2018
+865,Mega Financial Holding,Taiwan,2.774,0.8459,119.204,12.065,2018
+866,Adecco,Switzerland,27.631,0.8694,12.531,10.971,2018
+867,Inner Mongolia Yili,China,10.786,0.9608,7.786,24.807,2018
+868,Deutsche Wohnen,Germany,1.331,1.9377,24.664,16.809,2018
+869,VF,United States,12.333,0.7071,10.311,30.744,2018
+870,XL Group,Bermuda,11.291,-0.5606,65.338,14.188,2018
+871,China Steel,Taiwan,11.919,0.5939,22.815,12.233,2018
+872,J Sainsbury,United Kingdom,37.713,0.4095,30.863,9.125,2018
+873,Halkbank,Turkey,7.659,1.1443,82.276,2.195,2018
+874,Alliance Data Systems,United States,7.725,0.8061,29.393,11.526,2018
+875,China National Building,China,18.95,0.482,53.316,7.211,2018
+876,E-Trade Financial,United States,2.623,0.716,64.187,16.993,2018
+877,FirstEnergy,United States,13.416,-1.799,38.795,16.244,2018
+878,Julius Baer Group,Switzerland,3.76,0.7161,100.48,13.691,2018
+879,Financiere de l'Odet,France,20.669,0.417,60.278,7.608,2018
+880,Fortescue Metals Group,Australia,7.584,1.5551,18.153,11.579,2018
+881,China National Nuclear Power,China,5.03,0.6792,49.358,16.095,2018
+882,Shengjing Bank,China,6.459,1.1235,158.264,3.899,2018
+883,SM Investments,Philippines,7.75,0.6643,18.631,21.183,2018
+884,Nutrien,Canada,0.181,0.642,34.94,31.008,2018
+885,Insurance Australia Group,Australia,7.147,0.7926,23.039,14.684,2018
+886,Obayashi,Japan,17.036,0.8891,19.394,8.23,2018
+887,China Merchants Securities,China,1.731,0.83,46.201,16.807,2018
+888,O'Reilly Automotive,United States,9.104,1.1738,7.667,22.085,2018
+889,Vestas Wind Systems,Denmark,11.408,0.9769,13.672,13.566,2018
+890,Woodside Petroleum,Australia,3.906,1.0239,25.401,23.678,2018
+891,Randstad Holding,Netherlands,27.344,0.751,11.978,11.73,2018
+892,CBRE Group,United States,15.902,0.7122,11.907,15.981,2018
+893,Emaar Properties,United Arab Emirates,5.83,1.5848,30.755,9.726,2018
+894,Saudi British Bank,Saudi Arabia,2.007,1.0553,48.699,13.019,2018
+895,Voestalpine,Austria,14.273,0.7805,18.384,9.856,2018
+896,Shanghai Pharmaceuticals,China,20.174,0.5343,18.123,11.167,2018
+897,eBay,United States,9.986,-1.644,24.555,38.03,2018
+898,Daiichi Sankyo,Japan,8.663,0.5439,17.844,23.195,2018
+899,Shenwan Hongyuan Group,China,1.954,0.6972,51.851,17.432,2018
+900,Huishang Bank,China,6.201,1.1272,139.45,5.377,2018
+901,China Grand Automotive Services,China,25.178,0.6082,19.979,8.537,2018
+902,Secom,Japan,8.758,0.7849,16.176,16.543,2018
+903,Bank Negara Indonesia,Indonesia,4.902,1.0444,50.837,11.062,2018
+904,Genworth Financial,United States,8.161,0.783,103.773,1.537,2018
+905,Power Grid of India,India,3.833,1.1111,32.41,16.109,2018
+906,Swatch Group,Switzerland,8.087,0.7447,13.832,25.474,2018
+907,Bank of Jinzhou,China,5.958,1.3315,111.09,6.238,2018
+908,Invesco,United States,5.378,1.1344,31.619,11.584,2018
+909,Wipro,India,8.452,1.2422,11.662,18.279,2018
+910,Riyad Bank,Saudi Arabia,2.56,1.0522,57.671,11.455,2018
+911,Xiamen C&D,China,34.12,0.5266,32.787,5.017,2018
+912,Bank Leumi,Israel,4.792,0.8819,129.896,9.301,2018
+913,Schindler Holding,Switzerland,10.342,0.8372,8.852,23.026,2018
+914,BÃ¢loise Group,Switzerland,9.642,0.5568,86.255,7.397,2018
+915,DP World,United Arab Emirates,4.729,1.1767,23.158,18.268,2018
+916,Inpex,Japan,8.424,0.3642,40.015,18.479,2018
+917,HollyFrontier,United States,15.294,1.1127,10.912,11.938,2018
+918,CP All,Thailand,13.882,0.5673,11.055,24.115,2018
+919,Asahi Glass,Japan,13.54,0.6683,20.45,9.908,2018
+920,Kohl's,United States,19.095,0.859,13.34,10.133,2018
+921,MOL Hungarian Oil,Hungary,15.761,1.0313,16.845,7.971,2018
+922,Yamaha Motor,Japan,15.245,0.9226,13.189,10.872,2018
+923,Hyundai Steel,South Korea,17.441,0.4994,31.174,8.041,2018
+924,Wuliangye Yibin,China,4.412,1.6676,12.659,47.22,2018
+925,United Rentals,United States,7.019,1.42,14.688,13.952,2018
+926,South32,Australia,7.227,1.1552,14.786,15.238,2018
+927,Regeneron Pharmaceuticals,United States,6.065,1.4276,9.373,33.107,2018
+928,Genuine Parts,United States,16.989,0.6332,12.759,13.409,2018
+929,Mohawk Industries,United States,9.683,0.9795,12.56,15.933,2018
+930,Abu Dhabi Commercial Bank,United Arab Emirates,3.5,1.148,72.597,9.656,2018
+931,CapitaLand,Singapore,4.033,1.0933,47.36,11.597,2018
+932,Bank Hapoalim,Israel,4.966,0.7395,130.896,9.568,2018
+933,Gecina,France,0.799,2.1381,24.143,12.772,2018
+934,Mediobanca,Italy,2.56,0.912,86.565,10.343,2018
+935,VakifBank,Turkey,6.761,1.127,69.05,3.322,2018
+936,HCL Technologies,India,7.844,1.3528,7.363,19.282,2018
+937,Technipfmc,United Kingdom,14.81,0.2271,28.528,14.789,2018
+938,Westlake Chemical,United States,8.248,1.4444,11.604,15.177,2018
+939,China Gezhouba,China,15.573,0.7084,31.049,5.83,2018
+940,Corning,United States,10.241,-1.172,26.834,23.25,2018
+941,Suntory Beverage & Food,Japan,11.005,0.6966,14.482,14.295,2018
+942,Asr Nederland,Netherlands,7.162,1.0219,65.875,6.517,2018
+943,Shanghai Electric Group,China,11.949,0.396,31.609,11.993,2018
+944,JM Smucker,United States,7.36,1.2564,15.329,12.839,2018
+945,SVB Financial Group,United States,2.126,0.584,53.501,17.006,2018
+946,Aluminum Corp of China,China,26.263,0.195,32.197,10.111,2018
+947,Zijin Mining Group,China,14.755,0.546,14.458,13.821,2018
+948,Klepierre,France,1.575,1.3858,30.195,12.395,2018
+949,Db Insurance,South Korea,13.552,0.585,44.586,4.072,2018
+950,Fortive,United States,6.862,1.106,10.655,26.358,2018
+951,Hindustan Petroleum,India,27.933,1.2282,12.503,7.202,2018
+952,OTP Bank,Hungary,3.951,1.0254,51.059,10.875,2018
+953,Yum! Brands,United States,5.832,1.493,4.836,27.351,2018
+954,STMicroelectronics,Switzerland,8.73,0.928,10.068,21.185,2018
+955,Fiserv,United States,5.742,1.422,10.167,29.803,2018
+956,Cemex,Mexico,13.959,0.4873,29.199,8.839,2018
+957,China Coal Energy,China,13.076,0.406,39.644,9.384,2018
+958,Hormel Foods,United States,9.219,0.9147,7.859,19.201,2018
+959,Towngas,Hong Kong,4.167,1.0555,16.768,30.007,2018
+960,Crown Castle International,United States,4.639,0.4394,32.25,42.98,2018
+961,TDK,Japan,11.475,0.5726,17.915,11.877,2018
+962,Bank of Ireland,Ireland,4.03,0.722,147.163,9.664,2018
+963,L3 Technologies,United States,10.323,0.717,12.873,15.39,2018
+964,Snam,Italy,2.812,1.0118,26.658,15.638,2018
+965,Boston Scientific,United States,9.266,0.112,19.202,41.353,2018
+966,St. James's Place,United Kingdom,11.595,0.1879,121.644,8.508,2018
+967,Bunge,United States,45.314,0.092,23.084,10.028,2018
+968,Cielo,Brazil,3.599,1.262,24.975,13.696,2018
+969,Franklin Resources,United States,6.652,0.6735,17.69,17.967,2018
+970,Seagate Technology,Ireland,10.755,0.835,9.012,16.279,2018
+971,Tokyu,Japan,10.273,0.6325,21.294,10.243,2018
+972,Westfield,Australia,1.418,1.5454,21.254,14.238,2018
+973,Guangdong Wens Foodstuffs Group,China,8.441,1.0089,7.991,18.131,2018
+974,Voya Financial,United States,9.323,-0.4292,219.824,8.907,2018
+975,Daito Trust Construction,Japan,14.048,0.7924,7.926,12.798,2018
+976,Gap,United States,15.855,0.848,7.989,11.364,2018
+977,China Resources Power,Hong Kong,9.408,0.5933,28.267,9.181,2018
+978,Beiersdorf,Germany,7.959,0.758,9.931,26.306,2018
+979,Intuit,United States,5.434,0.95,4.898,49.737,2018
+980,Zions Bancorp,United States,2.814,0.688,66.481,11.395,2018
+981,Ceconomy,Germany,25.036,1.1392,13.747,3.542,2018
+982,Severstal,Russia,8.252,1.4593,7.068,13.393,2018
+983,Ameren,United States,6.248,0.572,26.079,13.857,2018
+984,QBE Insurance Group,Australia,12.665,-1.2183,44.364,10.459,2018
+985,Amadeus IT Group,Spain,5.474,1.1312,9.528,33.588,2018
+986,SMC,Japan,5.134,1.2368,12.053,26.452,2018
+987,Banque Saudi Fransi,Saudi Arabia,2.205,0.944,49.071,10.31,2018
+988,Sumitomo Metal Mining,Japan,8.423,0.8269,15.976,11.673,2018
+989,Dr Pepper Snapple Group,United States,6.774,1.058,10.179,21.511,2018
+990,American Financial Group,United States,6.697,0.467,60.656,9.956,2018
+991,Zoetis,United States,5.442,0.978,8.69,40.862,2018
+992,Cencosud,Chile,16.115,0.678,16.813,8.085,2018
+993,Finatis,France,43.586,-0.0665,48.194,0.337,2018
+994,Roper Technologies,United States,4.724,1.025,14.074,28.826,2018
+995,Hershey,United States,7.608,1.0081,7.333,18.836,2018
+996,T Rowe Price,United States,5.043,1.5298,7.374,28.625,2018
+997,Activision Blizzard,United States,7.257,0.347,18.397,54.578,2018
+998,Textron,United States,14.401,0.395,14.968,16.845,2018
+999,Dassault Aviation,France,5.451,0.7997,18.318,16.799,2018
+1000,China Resources Pharmaceutical Group,Hong Kong,22.14,0.447,20.564,8.534,2018
+1001,MediaTek,Taiwan,7.73,0.6766,14.177,16.895,2018
+1002,Shenzhen Overseas,China,4.337,1.0369,37.996,10.555,2018
+1003,Ball,United States,11.303,0.456,17.731,13.463,2018
+1004,Electronic Arts,United States,5.137,1.043,8.584,40.737,2018
+1005,Shin Kong Financial,Taiwan,14.814,0.3462,113.713,4.212,2018
+1006,Onex,Canada,25.348,-0.973,44.679,7.22,2018
+1007,Tata Steel,India,19.867,0.3031,26.672,10.155,2018
+1008,Shimizu,Japan,13.709,0.7667,16.891,7.933,2018
+1009,Tohoku Electric Power,Japan,18.689,0.426,39.701,6.584,2018
+1010,NEC,Japan,25.664,0.4139,26.529,7.244,2018
+1011,CGI Group,Canada,8.736,0.814,9.59,17.226,2018
+1012,Unipol Gruppo,Italy,16.112,-0.39,106.989,3.681,2018
+1013,Yes Bank,India,3.965,0.6567,47.906,11.985,2018
+1014,UBI Banca,Italy,5.306,0.7789,152.953,5.834,2018
+1015,Agile Property Holdings,China,7.689,0.8985,25.086,7.864,2018
+1016,Gemdale,China,5.321,1.0663,35.739,8.075,2018
+1017,Interactive Brokers Group,United States,2.046,0.098,59.093,32.813,2018
+1018,Amphenol,United States,7.318,0.6912,9.404,26.52,2018
+1019,Discovery Communications,United States,7.589,-0.181,34.658,16.817,2018
+1020,Public Storage,United States,2.693,1.4381,10.686,36.867,2018
+1021,Quanta Computer,Taiwan,33.566,0.4722,20.612,6.878,2018
+1022,Air Canada,Canada,12.997,1.4842,14.714,5.078,2018
+1023,AvalonBay Communities,United States,2.187,0.7805,18.646,22.995,2018
+1024,HAL Trust,Monaco,9.081,0.4405,19.502,14.799,2018
+1025,AerCap Holdings,Ireland,4.961,1.0804,42.494,7.974,2018
+1026,Pgnig Group,Poland,10.366,0.7999,13.872,10.329,2018
+1027,WW Grainger,United States,10.65,0.6373,5.903,16.584,2018
+1028,AGNC Investment,United States,2.196,1.119,69.221,7.435,2018
+1029,AntarChile,Chile,20.342,0.3985,22.729,8.475,2018
+1030,Kuwait Finance House,Kuwait,3.418,0.6273,57.977,10.931,2018
+1031,Concho Resources,United States,2.921,1.132,14.381,22.763,2018
+1032,GS Holdings,South Korea,14.758,0.7274,20.748,5.463,2018
+1033,Chongqing Changan Auto,China,12.014,0.921,17.033,7.239,2018
+1034,Schroders,United Kingdom,3.268,0.7637,30.421,13.195,2018
+1035,Bankinter,Spain,2.487,0.6005,87.678,9.773,2018
+1036,Scor,France,15.873,0.3226,49.469,7.611,2018
+1037,JBS,Brazil,51.109,0.189,32.768,6.715,2018
+1038,Continental Resources,United States,3.521,1.0229,14.378,25.431,2018
+1039,JSW Steel,India,10.141,0.65,14.054,11.622,2018
+1040,Japan Exchange Group,Japan,1.09,0.4555,388.494,10.213,2018
+1041,Metro Group,Germany,41.911,0.4884,19.063,5.074,2018
+1042,Guosen Securities,China,1.404,0.6448,32.558,13.955,2018
+1043,Whirlpool,United States,21.378,0.291,20.339,11.042,2018
+1044,Kingfisher,United Kingdom,15.151,0.6305,14.714,8.658,2018
+1045,Cincinnati Financial,United States,5.442,0.813,21.47,11.799,2018
+1046,DaVita,United States,13.431,0.3946,18.942,11.581,2018
+1047,CDW,United States,15.473,0.5924,7.028,11.934,2018
+1048,Bank Of Hangzhou,China,5.375,0.6733,127.97,6.687,2018
+1049,Kobe Steel,Japan,16.973,0.5701,22.12,3.925,2018
+1050,General Growth Properties,United States,2.35,0.6143,23.258,19.781,2018
+1051,Angang Steel,China,12.914,0.9302,14.646,7.438,2018
+1052,Leucadia National,United States,12.152,0.015,49.001,8.462,2018
+1053,Pembina Pipeline,Canada,4.488,0.7838,20.119,17.432,2018
+1054,WR Berkley,United States,7.706,0.592,24.588,9.358,2018
+1055,Tenaris,Luxembourg,5.967,0.5659,14.724,23.019,2018
+1056,KT Corp,South Korea,21.139,0.4257,28.584,6.292,2018
+1057,Conagra Brands,United States,7.834,0.8901,10.463,14.895,2018
+1058,Expedia,United States,10.379,0.3271,20.429,17.103,2018
+1059,Inner Mongolia Baotou Steel,China,8.417,0.3773,23.286,14.537,2018
+1060,TCL Corp,China,16.79,0.4447,25.926,7.041,2018
+1061,CMS Energy,United States,6.707,0.502,22.868,12.821,2018
+1062,Dexia,Belgium,11.063,-0.5211,217.27,0.016,2018
+1063,Legrand,France,6.227,0.8022,11.317,21.114,2018
+1064,GKN,United Kingdom,12.455,0.6478,11.988,11.068,2018
+1065,Cosmo Energy Holdings,Japan,22.765,0.657,15.899,2.914,2018
+1066,Intact Financial,Canada,7.212,0.6102,21.634,10.391,2018
+1067,CJ Corporation,South Korea,23.793,0.4102,27.393,4.499,2018
+1068,Shanghai Construction,China,21.904,0.3945,30.292,5.131,2018
+1069,MTN Group,South Africa,9.981,0.3317,19.581,18.382,2018
+1070,Investec,United Kingdom,5.359,0.616,69.522,7.549,2018
+1071,Zhejiang Zheneng Electric Power,China,7.95,0.5994,17.778,10.972,2018
+1072,BDO Unibank,Philippines,2.984,0.5537,53.617,11.133,2018
+1073,Grupo Inbursa,Mexico,4.483,0.9787,28.741,10.356,2018
+1074,Lonza Group,Switzerland,5.187,0.7396,14.613,19.742,2018
+1075,Torchmark,United States,4.202,1.4942,23.182,9.711,2018
+1076,Grasim Industries,India,7.491,0.4197,31.592,10.744,2018
+1077,Campbell Soup,United States,7.858,1.054,8.336,12.23,2018
+1078,Krung Thai Bank,Thailand,4.818,0.6259,92.341,7.638,2018
+1079,Renesas Electronics,Japan,7.126,0.8271,9.555,16.737,2018
+1080,Lenovo Group,Hong Kong,44.302,-0.1157,29.499,5.832,2018
+1081,L Brands,United States,12.633,0.9831,8.149,9.014,2018
+1082,Ventas,United States,3.634,0.563,23.494,19.066,2018
+1083,Advanced Semiconductor,Taiwan,9.633,0.7512,12.24,11.223,2018
+1084,GD Power Development,China,9.11,0.3626,44.384,8.934,2018
+1085,C.H. Robinson,United States,15.38,0.5251,4.308,12.036,2018
+1086,Arthur J. Gallagher,United States,6.545,0.6811,16.128,12.529,2018
+1087,Sojitz,Japan,16.389,0.5129,22.1,4.804,2018
+1088,Korean Air,South Korea,10.696,0.7001,23.024,3.06,2018
+1089,Steel Dynamics,United States,9.774,0.8395,6.973,11.379,2018
+1090,Jiangsu Yanghe Brewery,China,2.914,1.1104,7.051,30.927,2018
+1091,Universal Health,United States,10.484,0.7697,11.024,11.174,2018
+1092,Guangzhou Rural Commercial Bank,China,4.583,0.8463,95.108,6.56,2018
+1093,Pegatron,Taiwan,39.241,0.4826,16.407,5.885,2018
+1094,RiseSun Real Estate Development,China,5.881,0.8907,31.426,7.187,2018
+1095,Helvetia Holding,Switzerland,9.844,0.4118,59.986,5.888,2018
+1096,Moody's,United States,4.356,1.0279,9.014,33.4,2018
+1097,Celanese,United States,6.52,1.023,9.78,14.679,2018
+1098,UC Rusal,Cyprus,9.97,1.2228,16.013,3.871,2018
+1099,Newmont Mining,United States,7.506,0.048,20.483,21.548,2018
+1100,Carlsberg,Denmark,9.372,0.1909,18.849,17.425,2018
+1101,Kerry Group,Ireland,7.228,0.6638,8.886,18.739,2018
+1102,Concordia Financial Group,Japan,2.898,0.5992,175.464,7.252,2018
+1103,Markel,United States,6.344,0.2476,32.866,16.088,2018
+1104,Symantec,United States,4.846,1.163,15.761,12.132,2018
+1105,Aeroports de Paris,France,4.08,0.6441,17.143,21.829,2018
+1106,Bank Pekao,Poland,2.328,0.6558,53.374,8.802,2018
+1107,Intuitive Surgical,United States,3.302,0.7675,6.426,53.062,2018
+1108,Hainan Airlines,China,9.381,0.5827,29.643,,2018
+1109,BAIC Motor,China,19.858,0.3342,25.707,7.842,2018
+1110,Quest Diagnostics,United States,7.694,0.782,10.695,13.921,2018
+1111,KPN,Netherlands,7.328,0.5448,16.247,12.703,2018
+1112,Aramark,United States,15.152,0.4983,13.733,9.356,2018
+1113,Arch Capital Group,Bermuda,5.443,0.5071,32.132,10.815,2018
+1114,DSV,Denmark,11.787,0.4842,6.356,14.934,2018
+1115,Hankyu Hanshin Holdings,Japan,6.603,0.6354,21.199,9.699,2018
+1116,AU Optronics,Taiwan,11.21,1.0637,14.834,4.091,2018
+1117,Origin Energy,Australia,11.364,-0.7566,19.868,13.074,2018
+1118,Tokyo Century,Japan,9.133,0.4631,35.35,7.153,2018
+1119,Singapore Airlines,Singapore,11.234,0.4149,20.085,9.874,2018
+1120,EletrobrÃ¡s,Brazil,11.898,-0.5526,52.147,7.135,2018
+1121,Dubai Islamic Bank,United Arab Emirates,2.804,1.086,57.47,6.593,2018
+1122,Grifols,Spain,5.001,0.785,13.375,18.667,2018
+1123,Arab National Bank,Saudi Arabia,2.066,0.8071,45.783,7.975,2018
+1124,Attijariwafa Bank,Morocco,3.719,0.5554,50.891,10.035,2018
+1125,Thai Beverage,Thailand,5.563,0.8736,12.569,15.232,2018
+1126,Qantas Airways,Australia,12.517,0.7236,14,7.65,2018
+1127,XPO Logistics,United States,16.033,0.3633,12.961,13.159,2018
+1128,Air France-KLM,France,29.08,-0.3091,29.309,3.778,2018
+1129,Saputo,Canada,8.874,0.6832,6.383,12.965,2018
+1130,BCI-Banco Credito,Chile,3.195,0.5723,55.097,9.209,2018
+1131,Sika,Switzerland,6.348,0.6538,5.944,20.643,2018
+1132,Mondi,United Kingdom,8.008,0.7568,8.657,13.148,2018
+1133,Mitsubishi UFJ Lease,Japan,7.747,0.4892,49.438,6.052,2018
+1134,Korea Gas,South Korea,19.613,-1.0671,34.692,4.622,2018
+1135,Bombardier,Canada,16.672,-0.4612,26.726,7.82,2018
+1136,Brighthouse Financial,United States,8.44,-0.096,218.997,5.762,2018
+1137,Cheniere Energy,United States,6.667,-0.09,28.341,15.199,2018
+1138,Hyundai Marine & Fire,South Korea,11.673,0.411,36.875,3.182,2018
+1139,Power Assets Holdings,Hong Kong,0.182,1.0675,13.688,16.137,2018
+1140,Yara International,Norway,11.452,0.3896,16.672,11.417,2018
+1141,Datang International Power,China,9.946,0.245,39.973,8.623,2018
+1142,AES,United States,12.474,0.158,32.573,8.129,2018
+1143,Cintas,United States,6.337,0.6599,6.929,19.627,2018
+1144,Ajinomoto,Japan,10.378,0.5509,13.407,10.441,2018
+1145,RTL Group,Luxembourg,7.188,0.8335,9.604,13.024,2018
+1146,NRG Energy,United States,10.609,-1.696,23.752,10.993,2018
+1147,Arca Continental,Mexico,8.074,0.6853,12.617,11.178,2018
+1148,Lixil Group,Japan,15.373,0.4925,19.813,6.648,2018
+1149,Nitto Denko,Japan,7.726,0.7884,8.818,12.346,2018
+1150,Sino-Ocean Land Holdings,China,6.885,0.7565,29.468,5.429,2018
+1151,Terumo,Japan,5.303,0.8237,9.635,20.082,2018
+1152,Magnit,Russia,19.595,0.6083,9.155,8.097,2018
+1153,Liberty Broadband,United States,0.022,2.033,11.958,12.826,2018
+1154,Harbin Bank,China,4.386,0.7767,86.649,3.04,2018
+1155,First Financial Holding,Taiwan,2.47,0.5089,88.514,8.457,2018
+1156,Cerner,United States,5.175,0.8538,6.512,20.184,2018
+1157,China Molybdenum,China,3.828,0.564,15.608,25.581,2018
+1158,Jeronimo Martins,Portugal,19.63,0.459,7.735,10.252,2018
+1159,Boston Properties,United States,2.631,0.5412,19.584,19.2,2018
+1160,SGS,Switzerland,6.451,0.6309,6.099,18.993,2018
+1161,Amcor,Australia,9.139,0.6398,9.06,12.132,2018
+1162,J.B. Hunt Transport Services,United States,7.509,0.7017,4.422,13.682,2018
+1163,President Chain Store,Taiwan,7.572,1.0275,4.67,10.585,2018
+1164,Vienna Insurance Group,Austria,11.242,0.3223,61.183,4.116,2018
+1165,Dover,United States,7.939,0.7709,10.543,11.93,2018
+1166,Hoya,Japan,4.833,0.8977,6.118,21.555,2018
+1167,FonciÃ¨re des RÃ©gions,France,1.116,1.0311,26.18,8.578,2018
+1168,Metro,Canada,10.372,1.3497,6.68,7.298,2018
+1169,China Shipbuilding Industry,China,5.134,0.126,31.977,18.638,2018
+1170,Samsung SDI,South Korea,6.233,0.6316,15.333,11.944,2018
+1171,Clorox,United States,6.08,0.807,5.444,15.611,2018
+1172,AGL Energy,Australia,9.968,0.6408,11.229,10.867,2018
+1173,Inter Rao,Russia,15.722,0.9232,10.934,6.744,2018
+1174,Beijing Enterprises,Hong Kong,7.38,0.8829,21.945,6.568,2018
+1175,Monster Beverage,United States,3.485,0.8587,4.74,27.723,2018
+1176,Flextronics International,Singapore,25.441,0.4285,13.716,7.809,2018
+1177,Fidelity National Financial,United States,8.84,0.796,9.018,10.509,2018
+1178,Evraz Group,United Kingdom,10.814,0.6857,10.38,10.023,2018
+1179,Orient Securities,China,1.357,0.472,35.776,12.182,2018
+1180,Industrial Alliance Insurance,Canada,8.151,0.4363,48.38,4.46,2018
+1181,Meiji Holdings,Japan,11.196,0.5529,8.722,11.468,2018
+1182,Hyundai Heavy Industries,South Korea,12.334,-0.5543,28.405,8.272,2018
+1183,Cosco Shipping,China,13.903,0.38,20.56,8.048,2018
+1184,Punjab National Bank,India,8.533,0.177,112.93,3.637,2018
+1185,Arrow Electronics,United States,27.929,0.4273,16.125,6.725,2018
+1186,Hindalco Industries,India,14.94,0.2833,23.717,8.087,2018
+1187,Norwegian Cruise Line Holdings,United States,5.539,0.8011,14.485,11.562,2018
+1188,Ternium,Luxembourg,9.72,0.905,12.415,7.841,2018
+1189,Terna,Italy,2.463,0.7764,20.447,11.706,2018
+1190,Oriental Land,Japan,4.324,0.7326,8.609,34.183,2018
+1191,Harris,United States,6.058,0.639,10.07,18.599,2018
+1192,Ashtead Group,United Kingdom,4.739,1.2858,9.042,14.844,2018
+1193,FamilyMart,Japan,11.447,0.2953,16.236,12.737,2018
+1194,Wm Morrison Supermarkets,United Kingdom,22.44,0.4043,13.747,8.097,2018
+1195,KION Group,Germany,8.981,0.5272,14.171,10.167,2018
+1196,Coty,United States,9.339,-0.2923,23.765,10.723,2018
+1197,Lendlease Group,Australia,13.339,0.6051,12.352,7.883,2018
+1198,Arkema,France,9.391,0.6497,11.641,9.984,2018
+1199,Givaudan,Switzerland,5.132,0.7315,7.5,21.055,2018
+1200,Paychex,United States,3.308,0.9005,6.843,22.756,2018
+1201,Focus Media Information Technology,China,1.831,0.9212,2.497,22.245,2018
+1202,Innolux,Taiwan,10.335,0.9374,13.941,3.863,2018
+1203,Materials Industry Zhongda Group,China,41.103,0.4032,15.314,4.358,2018
+1204,NASDAQ,United States,4.144,0.741,15.79,15.117,2018
+1205,RSA Insurance Group,United Kingdom,9.15,0.3722,24.82,9.092,2018
+1206,Ricoh,Japan,18.617,-1.2214,24.833,6.946,2018
+1207,PVH,United States,8.915,0.5378,11.886,11.805,2018
+1208,East West Bancorp,United States,1.552,0.5229,37.693,10.086,2018
+1209,National Oilwell Varco,United States,7.354,-0.183,20.01,15.529,2018
+1210,Top Frontier Investment Holdings,Philippines,16.385,0.2443,29.984,1.682,2018
+1211,Ihs Markit,United Kingdom,3.688,0.592,14.697,20.443,2018
+1212,Hesteel,China,15.862,0.2325,30.557,5.498,2018
+1213,Electric Power Development,Japan,7.726,0.6176,24.892,5.054,2018
+1214,Magnitogorsk Iron & Steel,Russia,7.94,1.2215,7.879,8.251,2018
+1215,Koito Manufacturing,Japan,7.659,0.7525,6.327,11.271,2018
+1216,Ayala,Philippines,4.805,0.6003,20.52,11.543,2018
+1217,Wynn Resorts,United States,6.546,0.442,12.215,21.245,2018
+1218,Bank of Baroda,India,7.804,0.2707,110.76,5.602,2018
+1219,Brown-Forman,United States,3.215,0.751,5.042,27.343,2018
+1220,Worldpay,United States,3.949,0.0036,28.95,23.969,2018
+1221,Bank of Tianjin,China,4.411,0.5758,107.788,3.581,2018
+1222,Yuanta Financial Holding,Taiwan,4.389,0.6413,78.743,5.679,2018
+1223,UCB,Belgium,5.11,0.8493,11.908,14.162,2018
+1224,E-mart,South Korea,14.044,0.5419,15.008,6.801,2018
+1225,Shiseido,Japan,9.351,0.3394,8.524,26.333,2018
+1226,X5 Retail Group,Netherlands,23.225,0.4916,9.607,7.886,2018
+1227,SKF Group,Sweden,9.457,0.6936,10.301,9.739,2018
+1228,Yum China Holdings,United States,8.081,0.516,4.894,14.451,2018
+1229,Phoenix Group Holdings,United Kingdom,7.786,-0.0348,100.155,4.24,2018
+1230,Samsung SDS,South Korea,8.226,0.4691,6.798,16.167,2018
+1231,Equity Residential,United States,2.481,0.409,20.384,23.032,2018
+1232,Hna Technology,China,48.093,0.118,17.87,,2018
+1233,Lotte Shopping,South Korea,18.552,-0.1319,26.107,6.294,2018
+1234,Alexion Pharmaceuticals,United States,3.639,0.5221,13.83,26.624,2018
+1235,China Gas Holdings,Hong Kong,5.101,0.752,8.921,18.609,2018
+1236,Antofagasta,United Kingdom,4.735,0.7469,14.21,13.969,2018
+1237,Airports of Thailand,Thailand,1.677,0.6447,5.531,31.958,2018
+1238,Hess,United States,5.571,-3.856,22.072,19.321,2018
+1239,Host Hotels & Resorts,United States,5.385,0.659,12.064,15.368,2018
+1240,Sun Art Retail Group,Hong Kong,15.127,0.4113,9.173,11.181,2018
+1241,Waste Connections,Canada,4.679,0.685,11.963,19.941,2018
+1242,Penske Automotive,United States,22.053,0.6388,10.843,4.002,2018
+1243,Advanced Info Service,Thailand,4.648,0.8864,8.717,18.389,2018
+1244,Johnson Matthey,United Kingdom,16.321,0.4775,6.138,9.088,2018
+1245,Experian,Ireland,4.287,0.8212,7.581,21.591,2018
+1246,Industries Qatar,Qatar,1.345,1.0032,9.192,18.313,2018
+1247,LG Household & Health Care,South Korea,5.696,0.561,4.6,20.574,2018
+1248,Ooredoo Telecom,Qatar,8.907,0.5128,24.22,6.037,2018
+1249,Jiangxi Copper,China,31.718,0.279,14.964,7.804,2018
+1250,Illumina,United States,2.936,0.567,5.542,39.248,2018
+1251,Wanhua Chemical Group,China,8.323,1.8839,10.557,,2018
+1252,3i Group,United Kingdom,0.353,1.5353,9.641,12.94,2018
+1253,E.Sun Financial,Taiwan,1.938,0.5268,72.774,7.153,2018
+1254,Electrolux Group,Sweden,14.514,0.6248,10.652,7.605,2018
+1255,Hexagon,Sweden,4.105,0.8519,10.546,19.907,2018
+1256,Taiwan Cooperative Financial,Taiwan,2.975,0.4706,114.641,7.114,2018
+1257,Aroundtown Property Holdings,Luxembourg,0.594,1.4467,16.535,8.629,2018
+1258,Bank of Zhengzhou,China,3.034,0.6327,66.927,2.563,2018
+1259,Kerry Properties,Hong Kong,4.673,1.186,22.191,7.145,2018
+1260,Dassault Systemes,France,3.641,0.5858,8.441,34.569,2018
+1261,Charoen Pokphand Foods,Thailand,14.779,0.436,18.211,6.344,2018
+1262,FleetCor Technologies,United States,2.315,0.7914,11.692,18.159,2018
+1263,Doosan,South Korea,15.534,0.034,26.873,2.151,2018
+1264,Banca MPS,Italy,6.542,-3.9504,167.306,4.22,2018
+1265,Equinix,United States,4.642,0.2538,19.942,31.933,2018
+1266,Alcoa,United States,12.208,0.142,17.096,10.061,2018
+1267,Hunan Valin Steel,China,11.771,0.8068,12.11,3.937,2018
+1268,Petronas Chemicals,Malaysia,4.049,0.9715,8.944,17.051,2018
+1269,Zhongyuan Bank,China,3.222,0.5693,80.158,6.291,2018
+1270,Tenet Healthcare,United States,19.065,-0.552,23.184,3.335,2018
+1271,Canara Bank,India,7.358,0.2026,91.809,2.684,2018
+1272,China Life Insurance (Taiwan),Taiwan,9.489,0.2986,49.252,4.008,2018
+1273,US Foods,United States,24.181,0.4843,9.174,7.361,2018
+1274,Goldcorp,Canada,3.385,0.5556,21.615,11.996,2018
+1275,Henry Schein,United States,12.759,0.4234,7.915,11.235,2018
+1276,Chesapeake Energy,United States,9.254,1.091,12.086,3.064,2018
+1277,WellCare Health Plans,United States,17.699,0.4081,9.671,9.732,2018
+1278,Ctrip.com International,China,3.967,0.32,24.885,23.309,2018
+1279,Welltower,United States,4.351,0.197,27.747,20.924,2018
+1280,Alstom,France,8.268,0.4127,16.8,10.231,2018
+1281,Shionogi,Japan,3.11,0.9823,6.794,16.497,2018
+1282,Canadian Tire,Canada,10.35,0.5663,12.47,8.366,2018
+1283,Ferrari,Italy,4.005,0.655,5.375,25.008,2018
+1284,Huadian Power International,China,11.624,0.065,34.347,5.548,2018
+1285,Chiba Bank,Japan,1.844,0.4854,135.231,6.076,2018
+1286,Kinnevik,Sweden,1.964,1.9194,11.496,10.274,2018
+1287,LARGAN Precision,Taiwan,1.747,0.8538,3.895,18.368,2018
+1288,Arconic,United States,13.213,-0.253,18.219,8.797,2018
+1289,Indorama Ventures,Thailand,8.438,0.5845,8.779,10.8,2018
+1290,Leonardo,Italy,13.002,0.3068,30.061,6.594,2018
+1291,Skyworks Solutions,United States,3.851,0.8739,4.745,17.663,2018
+1292,Bank of India,India,6.92,-0.2192,97.332,2.588,2018
+1293,OMRON,Japan,7.759,0.5699,7.005,11.726,2018
+1294,Joint Stock Commercial Bank for Foreign Trade of Vietnam,Vietnam,2.663,0.457,44.013,9.148,2018
+1295,Turkish Airlines,Turkey,11.699,0.475,18.507,5.226,2018
+1296,AAC Technologies Holdings,China,3.137,0.7912,4.718,18.945,2018
+1297,Manpower,United States,21.8,0.568,8.896,6.32,2018
+1298,Rural Electrification,India,3.632,0.9415,32.383,3.498,2018
+1299,Mirae Asset Daewoo,South Korea,3.316,0.533,84.654,6.272,2018
+1300,Partners Group Holding,Switzerland,1.416,0.7644,3.009,19.854,2018
+1301,Bank Of Guiyang,China,2.174,0.5501,73.164,4.935,2018
+1302,Osaka Gas,Japan,11.695,0.3404,17.915,9.049,2018
+1303,Bank of Chongqing,China,3.249,0.5653,67.371,2.299,2018
+1304,Vedanta Resources,United Kingdom,13.418,-0.0219,28.142,2.888,2018
+1305,Jiangsu Hengrui Medicine,China,2.151,0.5061,3.004,39.786,2018
+1306,Wuestenrot & Wuerttembergische,Germany,7.009,0.2895,86.088,2.224,2018
+1307,Wolters Kluwer,Netherlands,4.988,0.7557,10.19,15.61,2018
+1308,McCormick,United States,5.028,0.8065,10.363,14.047,2018
+1309,Umicore,Belgium,13.476,0.2391,6.246,13.865,2018
+1310,Liberty Expedia Holdings,United States,10.63,-0.178,35.76,2.316,2018
+1311,Nitori Holdings,Japan,5.135,0.5764,5.159,19.044,2018
+1312,Ultrapar Participacoes,Brazil,25.489,0.3977,8.59,8.19,2018
+1313,Foshan Haitian Flavouring and Food,China,2.277,0.5669,2.604,28.904,2018
+1314,Masco,United States,7.787,0.538,5.63,11.82,2018
+1315,Valeant Pharmaceuticals,Canada,8.61,-0.917,35.798,7.273,2018
+1316,Future Land Development Holdings,China,6.112,0.5705,29.085,4.749,2018
+1317,Naver,South Korea,4.415,0.659,7.491,22.137,2018
+1318,Toppan Printing,Japan,12.916,0.4233,18.981,5.344,2018
+1319,Autoliv,Sweden,10.587,0.4099,8.878,12.396,2018
+1320,Kangmei Pharmaceutical,China,4.256,0.6724,11.475,19.396,2018
+1321,Rockwell Automation,United States,6.504,0.412,6.514,22.342,2018
+1322,Huntsman,United States,9.283,0.834,10.703,7.56,2018
+1323,Edwards Lifesciences,United States,3.447,0.56,5.825,29.111,2018
+1324,New Residential Investment,United States,2.34,1.4404,22.012,6.044,2018
+1325,Shoprite Holdings,South Africa,10.937,0.4435,5.115,10.984,2018
+1326,Olam International,Singapore,19.031,0.3797,16.686,5.462,2018
+1327,Chugoku Electric Power,Japan,11.864,0.1868,29.896,4.447,2018
+1328,LKQ,United States,10.115,0.5524,9.636,9.378,2018
+1329,Nielsen,United States,6.656,0.43,16.923,10.747,2018
+1330,BorgWarner,United States,10.174,0.4758,10.035,10.633,2018
+1331,Expeditors International,United States,7.23,0.5318,3.212,12.638,2018
+1332,Shanxi Taigang Stainless,China,10.358,0.8692,11.557,5.395,2018
+1333,Packaging Corp of America,United States,6.599,0.6858,6.14,11.003,2018
+1334,Darden Restaurants,United States,7.881,0.5453,5.455,11.182,2018
+1335,Smith & Nephew,United Kingdom,4.763,0.7644,7.866,15.391,2018
+1336,Unicharm,Japan,5.922,0.4995,6.78,17.598,2018
+1337,Nippon Yusen,Japan,19.698,0.182,19.483,3.79,2018
+1338,Alinma Bank,Saudi Arabia,1.403,0.5791,30.333,8.131,2018
+1339,Mitsui Chemicals,Japan,11.611,0.6749,12.265,5.85,2018
+1340,Assurant,United States,6.417,0.4818,32.428,4.614,2018
+1341,Quinenco,Chile,7.301,0.1708,61.762,5.406,2018
+1342,Ulta Salon Cosmetcs & Fragrance,United States,5.885,0.5552,2.964,15.128,2018
+1343,Everest Re Group,Bermuda,6.764,0.378,23.513,9.355,2018
+1344,Interpublic Group,United States,8.298,0.5434,12.24,9.353,2018
+1345,Grupo Bimbo,Mexico,14.507,0.2649,13.408,9.737,2018
+1346,Boliden,Sweden,6.012,0.8626,7.174,10.262,2018
+1347,American Water Works,United States,3.362,0.439,19.728,14.863,2018
+1348,Shizuoka Bank,Japan,1.888,0.4523,108.441,6.135,2018
+1349,Check Point Software,Israel,1.872,0.8075,5.422,15.94,2018
+1350,Jyske Bank,Denmark,2.72,0.4626,96.355,4.935,2018
+1351,United Internet,Germany,5.287,0.6927,9.217,13.505,2018
+1352,BPER Banca,Italy,3.011,0.4825,84.786,2.882,2018
+1353,SDIC Power Holdings,China,4.947,0.4967,33.828,7.649,2018
+1354,Digital Realty Trust,United States,2.643,0.2713,21.582,22.406,2018
+1355,Alaska Air Group,United States,8.016,0.933,10.848,7.461,2018
+1356,Skanska,Sweden,18.481,0.351,13.612,7.85,2018
+1357,Olympus,Japan,7.096,0.5149,9.202,12.563,2018
+1358,Smurfit Kappa Group,Ireland,9.657,0.4703,11.438,10.018,2018
+1359,Marathon Oil,United States,4.877,-0.367,21.634,17.917,2018
+1360,PGE Polska Grupa Energetyczna,Poland,6.12,0.7047,20.751,5.584,2018
+1361,Ametek,United States,4.465,0.7239,8.058,17.324,2018
+1362,BBMG,China,9.109,0.32,37.399,6.595,2018
+1363,Chemours,United States,6.477,0.893,7.484,9.031,2018
+1364,TransDigm Group,United States,3.613,0.7193,10.395,17.503,2018
+1365,Shinsei Bank,Japan,3.209,0.4639,88.92,4.212,2018
+1366,Alrosa,Russia,4.721,1.3032,7.43,10.487,2018
+1367,China International Marine,China,12.138,0.37,21.711,5.823,2018
+1368,British Land,United Kingdom,0.79,0.7942,17.527,9.244,2018
+1369,Qatar Islamic Bank,Qatar,1.259,0.609,41.681,6.66,2018
+1370,Nordstrom,United States,15.478,0.438,8.115,8.188,2018
+1371,Wyndham Worldwide,United States,5.544,0.764,11.099,11.147,2018
+1372,Mosaic,United States,7.765,-0.064,20.452,10.237,2018
+1373,Nine Dragons Paper Holdings,Hong Kong,6.814,1.0116,10.858,7.884,2018
+1374,Saudi Arabian Mining,Saudi Arabia,3.448,0.3021,25.298,17.186,2018
+1375,KLA-Tencor,United States,3.901,0.7097,5.598,17.313,2018
+1376,Coca-Cola HBC,Switzerland,7.363,0.4817,8.028,12.565,2018
+1377,ALFA,Mexico,17.397,-0.0866,19.12,5.814,2018
+1378,Transurban Group,Australia,2.27,0.358,19.577,19.909,2018
+1379,Asustek Computer,Taiwan,14.265,0.511,11.59,6.964,2018
+1380,Bawag Group,Austria,1.626,0.5263,55.322,5.057,2018
+1381,Everbright Securities,China,1.395,0.478,32.445,8.711,2018
+1382,PBF Energy,United States,22.835,0.476,8.282,4.635,2018
+1383,UGI,United States,7.209,0.6279,12.445,8.644,2018
+1384,Cathay Pacific Airways,Hong Kong,12.484,-0.1616,24.098,6.585,2018
+1385,Coloplast,Denmark,2.494,0.5933,2.104,20.216,2018
+1386,China Galaxy Securities,China,1.662,0.585,43.086,6.496,2018
+1387,Global Payments,United States,3.85,0.511,12.903,18.528,2018
+1388,Logan Property Holdings,China,4.21,0.9508,17.179,8.201,2018
+1389,Medipal Holdings,Japan,27.867,0.2961,15.032,4.902,2018
+1390,Chow Tai Fook Jewellery,Hong Kong,7.001,0.4643,7.07,13.351,2018
+1391,Maanshan Iron & Steel,China,11.099,0.706,11.267,4.501,2018
+1392,Meritz Financial Group,South Korea,8.265,0.3206,39.006,1.843,2018
+1393,NVR,United States,6.443,0.6006,2.846,11.063,2018
+1394,Delta Electronics,Taiwan,7.521,0.575,8.297,9.951,2018
+1395,Royal Mail,United Kingdom,12.695,0.4497,9.201,8.552,2018
+1396,China Jinmao,Hong Kong,4.605,0.5858,34.098,6.755,2018
+1397,Sekisui Chemical,Japan,9.992,0.5726,9.395,7.984,2018
+1398,Mebuki Financial Group,Japan,2.021,0.3938,148.331,4.652,2018
+1399,Latam Airlines,Chile,9.843,0.1739,18.688,8.615,2018
+1400,Storebrand,Norway,6.139,0.3249,72.549,3.987,2018
+1401,Mitsui OSK Lines,Japan,14.909,-0.4275,19.99,3.586,2018
+1402,GAIL India,India,7.243,0.5023,9.12,11.483,2018
+1403,Arab Bank,Jordan,2.546,0.523,47.886,6.683,2018
+1404,Brenntag,Germany,13.246,0.407,8.857,9.238,2018
+1405,Total System Services,United States,4.73,0.6215,7.532,16.099,2018
+1406,KT&G,South Korea,4.128,1.0294,9.318,11.808,2018
+1407,ON Semiconductor Corp.,United States,5.484,0.8721,7.263,10.001,2018
+1408,Encana,Canada,4.282,0.5559,15.11,12.731,2018
+1409,Navient,United States,5.403,0.33,113.209,3.564,2018
+1410,Persimmon,United Kingdom,4.407,1.0134,6.435,11.792,2018
+1411,Targa Resources,United States,9.238,0.196,14.753,10.561,2018
+1412,Nanya Technology,Taiwan,2.05,1.4751,5.438,9.647,2018
+1413,Bunzl,United Kingdom,11.051,0.3999,7.089,10.176,2018
+1414,Showa Shell Sekiyu,Japan,19.35,0.4699,9.539,5.572,2018
+1415,Bank Audi,Lebanon,3.321,0.5423,43.301,2.299,2018
+1416,China International Capital,China,2.253,0.4026,36.519,9.016,2018
+1417,Iida Group Holdings,Japan,11.6,0.6388,10.86,5.608,2018
+1418,Nippon Express,Japan,18.003,0.059,14.274,7.277,2018
+1419,Noble Energy,United States,4.239,-0.6,22.448,16.888,2018
+1420,Hanwha Chemical,South Korea,8.263,0.7295,12.75,4.469,2018
+1421,Oji Holdings,Japan,13.407,0.3276,18.505,6.932,2018
+1422,FMC,United States,3.493,0.9267,10.149,11.958,2018
+1423,PulteGroup,United States,8.942,0.5207,9.706,8.943,2018
+1424,Mitsubishi Materials,Japan,14.432,0.3121,18.948,3.832,2018
+1425,Red ElÃ©ctrica,Spain,2.19,0.7555,13.11,11.128,2018
+1426,EQT,United States,3.599,-0.2415,27.632,13.487,2018
+1427,Mallinckrodt,United Kingdom,2.983,1.7235,15.516,1.237,2018
+1428,Vulcan Materials,United States,3.957,0.6092,9.453,16.836,2018
+1429,US Steel,United States,12.675,0.585,10.026,6.322,2018
+1430,Ahli United Bank,Bahrain,1.66,0.5983,33.908,4.77,2018
+1431,Accor,France,2.185,0.4557,14.501,16.052,2018
+1432,Yamato Holdings,Japan,13.884,0.1645,10.488,10.571,2018
+1433,AVIC Capita,China,1.91,0.4594,36.182,7.723,2018
+1434,Goodyear,United States,15.508,0.255,17.58,6.125,2018
+1435,Next,United Kingdom,5.272,0.7693,3.643,10.625,2018
+1436,Erdemir,Turkey,5.407,1.0651,7.99,8.448,2018
+1437,Daelim Industrial,South Korea,11.392,0.532,12.519,2.705,2018
+1438,JetBlue Airways,United States,7.165,1.15,10.027,6.007,2018
+1439,Taishin Financial Holdings,Taiwan,1.731,0.4515,59.526,4.901,2018
+1440,Verisk Analytics,United States,2.224,0.5793,6.247,17.498,2018
+1441,Tech Data,United States,36.775,0.1166,12.653,3.133,2018
+1442,Alleghany,United States,6.527,0.1125,25.097,8.957,2018
+1443,BNK Financial Group,South Korea,3.789,0.3898,102.494,3.048,2018
+1444,Xiamen International Trade Group,China,25.915,0.2511,13.816,2.437,2018
+1445,Union Bank of India,India,5.7,0.0854,70.323,1.533,2018
+1446,Yonghui Superstores,China,9.337,0.2748,5.18,13.96,2018
+1447,AutoNation,United States,21.655,0.4302,10.22,4.181,2018
+1448,Pandora,Denmark,3.454,0.8746,2.78,11.9,2018
+1449,RHB Bank,Malaysia,2.478,0.4536,56.884,5.349,2018
+1450,Hyundai Engineering,South Korea,14.658,0.2481,17.217,6.712,2018
+1451,Thai Oil,Thailand,9.943,0.7325,6.999,5.765,2018
+1452,Huntington Ingalls Industries,United States,7.591,0.516,6.376,9.798,2018
+1453,Kansas City Southern,United States,2.654,0.9599,9.128,11.286,2018
+1454,Industrivarden,Sweden,0.821,0.803,12.916,10.22,2018
+1455,Lundbergs,Sweden,2.389,0.7822,15.778,8.745,2018
+1456,Bohai Financial Investment Holding,China,5.1,0.4183,46.373,5.702,2018
+1457,Hydro One,Canada,4.615,0.5208,20.512,9.188,2018
+1458,Hua Nan Financial,Taiwan,2.231,0.395,86.477,6.626,2018
+1459,Caltex Australia,Australia,16.168,0.4745,4.971,5.992,2018
+1460,Proximus,Belgium,6.702,0.6159,10.629,9.337,2018
+1461,Advance Auto Parts,United States,9.374,0.4755,8.482,8.876,2018
+1462,Fastenal,United States,4.529,0.6187,3.03,14.894,2018
+1463,Mashreq Bank,United Arab Emirates,2.439,0.5729,33.602,3.867,2018
+1464,Oceanwide Holdings,China,2.333,0.5998,31.573,5.89,2018
+1465,CIFI Holdings Group,China,4.737,0.7161,23.304,6.258,2018
+1466,Bankunited,United States,1.408,0.6131,30.433,4.364,2018
+1467,Csc Financial,China,2.389,0.5952,31.616,6.111,2018
+1468,Reliance Steel,United States,10.059,0.6707,8.148,6.648,2018
+1469,Community Health Systems,United States,14.558,-2.284,17.311,0.507,2018
+1470,Kintetsu,Japan,10.966,0.2722,16.981,7.718,2018
+1471,Shanghai International Airport,China,1.271,0.59,4.507,15.998,2018
+1472,Hyundai Glovis,South Korea,14.517,0.4937,7.906,5.506,2018
+1473,New York Community,United States,1.815,0.4652,49.655,5.728,2018
+1474,Shenzhou International Group Holdings,China,2.681,0.5574,3.7,17.197,2018
+1475,Sino Land,Hong Kong,1.549,0.9607,20.304,5.87,2018
+1476,Zhongsheng Group Holdings,China,12.799,0.4977,7.307,6.902,2018
+1477,China Mengniu Dairy,Hong Kong,8.907,0.3025,8.928,13.76,2018
+1478,Martin Marietta Materials,United States,3.924,0.6791,8.948,13.563,2018
+1479,AECOM Technology,United States,19.12,0.1814,14.617,5.331,2018
+1480,Abengoa,Spain,1.669,4.825,7.635,0.255,2018
+1481,Migdal Insurance,Israel,6.626,0.1055,42.213,1.005,2018
+1482,Sistema,Russia,12.172,-1.6146,19.761,1.715,2018
+1483,Masraf Al Rayan,Qatar,0.934,0.5623,28.416,7.045,2018
+1484,Bank Of Gansu,China,2.157,0.495,41.638,3.476,2018
+1485,NSK,Japan,9.206,0.6254,10.271,7.017,2018
+1486,Merlin Properties SOCIMI S.A,Spain,0.547,1.2412,14.416,7.133,2018
+1487,DCC,Ireland,16.623,0.2655,7.734,8.815,2018
+1488,Minebea,Japan,7.932,0.5358,6.656,8.65,2018
+1489,Abu Dhabi Islamic Bank,United Arab Emirates,1.824,0.5441,33.795,3.295,2018
+1490,LG Uplus,South Korea,11.14,0.4772,12.77,5.185,2018
+1491,Almarai,Saudi Arabia,3.675,0.5677,8.47,15.959,2018
+1492,Kaisa Group Holdings,China,4.899,0.4847,32.768,3.353,2018
+1493,NEXON,Japan,2.262,0.753,5.351,12.181,2018
+1494,Gudang Garam,Indonesia,6.349,0.5772,4.598,9.683,2018
+1495,Kawasaki Heavy Industries,Japan,14.204,0.2609,16.784,5.384,2018
+1496,Ryder System,United States,7.485,0.7831,11.736,3.626,2018
+1497,China Development Financial,Taiwan,4.056,0.3844,80.398,5.441,2018
+1498,Suzano Papel e Celulose,Brazil,3.501,0.6744,9.049,13.156,2018
+1499,Jacobs Engineering,United States,11.854,0.2319,12.602,9.011,2018
+1500,Compal Electronics,Taiwan,29.177,0.189,12.21,2.966,2018
+1501,Hang Lung Group,Hong Kong,1.584,0.6819,25.046,4.258,2018
+1502,Chang Hwa Bank,Taiwan,1.43,0.3975,68.426,5.44,2018
+1503,Leidos,United States,10.033,0.396,8.913,9.603,2018
+1504,Mercuries & Associates,Taiwan,6.857,0.0539,36.034,0.591,2018
+1505,Segro,United Kingdom,0.382,1.2269,10.734,8.959,2018
+1506,JG Summit Holdings,Philippines,5.227,0.5826,14.871,8.375,2018
+1507,Bank Of Chengdu,China,2.083,0.388,72.219,6.05,2018
+1508,Axiata Group,Malaysia,5.676,0.2115,17.467,12.118,2018
+1509,Banca Mediolanum,Italy,3.914,0.4286,51.876,5.844,2018
+1510,Maroc Telecom,Morocco,3.602,0.5879,6.706,14.541,2018
+1511,Arista Networks,United States,1.783,0.4842,2.58,19.335,2018
+1512,Church & Dwight,United States,3.905,0.7697,5.943,11.614,2018
+1513,Fukuoka Financial Group,Japan,2.075,-0.3672,176.504,4.664,2018
+1514,CA,United States,4.235,0.471,13.06,14.715,2018
+1515,Xilinx,United States,2.539,0.5124,5.056,17.633,2018
+1516,Frontier Communications,United States,8.971,-1.71,24.678,0.724,2018
+1517,Indiabulls Housing Finance,India,2.271,0.5968,20.224,7.873,2018
+1518,Barratt Developments,United Kingdom,6.21,0.8106,9.046,7.701,2018
+1519,Hertz Global Holdings,United States,8.95,0.349,22.321,1.486,2018
+1520,Red Star Macalline Group,China,1.696,0.64,16.281,8.816,2018
+1521,Geberit,Switzerland,2.955,0.5358,3.841,16.405,2018
+1522,Korea Investment Holdings,South Korea,1.783,0.4513,45.531,5.15,2018
+1523,JTEKT,Japan,13.003,0.4484,12.008,5.428,2018
+1524,Alfresa Holdings,Japan,23.485,0.3211,12.631,4.923,2018
+1525,Shanghai Commercial & Savings Bank,Taiwan,1.501,0.4071,58.252,5.16,2018
+1526,Stockland Australia,Australia,2.178,0.9022,14.757,7.726,2018
+1527,Mizrahi Tefahot Bank,Israel,2.273,0.3877,69.159,4.368,2018
+1528,CJ Cheiljedang,South Korea,14.575,0.3274,15.757,5.341,2018
+1529,Avis Budget Group,United States,8.977,0.381,19.222,3.527,2018
+1530,Starwood Property Trust,United States,0.943,0.3953,61.127,5.635,2018
+1531,China International Travel Service,China,4.673,0.4485,3.646,18.805,2018
+1532,Vicinity Centres,Australia,1.067,1.0967,13.478,7.508,2018
+1533,BGF Retail,South Korea,2.387,3.0939,0.802,3.175,2018
+1534,Beijing Capital Development,China,5.277,0.382,40.316,3.657,2018
+1535,China Merchants Holdings,Hong Kong,1.115,0.7735,16.879,7.466,2018
+1536,Sime Darby,Malaysia,8.746,0.6773,6.118,4.631,2018
+1537,WÃ¤rtsilÃ¤,Finland,5.821,0.4523,6.927,12.722,2018
+1538,Bluescope Steel,Australia,8.389,0.6117,7.5,7.031,2018
+1539,Dai Nippon Printing,Japan,12.742,0.2481,17.024,6.49,2018
+1540,Xerox,United States,10.246,0.178,16.175,7.684,2018
+1541,Motorola Solutions,United States,6.567,-0.115,9.051,17.571,2018
+1542,IHI,Japan,14.349,0.0748,15.361,5.595,2018
+1543,Hokuhoku Financial Group,Japan,1.573,0.1912,122.203,1.966,2018
+1544,Tosoh,Japan,7.424,0.8012,8.019,5.97,2018
+1545,Yunnan Baiyao Group,China,3.707,0.4868,4.547,17.26,2018
+1546,Great Eagle Holdings,Hong Kong,1.16,1.1315,15.479,3.447,2018
+1547,Greentown China Holdings,China,6.297,0.2451,36.214,3.176,2018
+1548,Celltrion,South Korea,0.898,0.3735,3.305,30.278,2018
+1549,World Fuel Services,United States,34.74,-0.1704,5.472,1.533,2018
+1550,Caesars Entertainment,United States,5.861,0.137,25.151,8.309,2018
+1551,Far East Horizon,Hong Kong,2.815,0.4779,34.928,4.128,2018
+1552,Polyus,Russia,2.72,1.237,6.45,8.272,2018
+1553,Techtronic Industries,Hong Kong,6.064,0.4706,5.598,11.191,2018
+1554,Petro Rabigh,Saudi Arabia,9.963,0.3794,16.445,5.905,2018
+1555,INTL FCStone,United States,32.314,0.0048,7.204,0.883,2018
+1556,Two Harbors Investment,United States,1.117,0.6114,24.077,2.73,2018
+1557,Blom Bank,Lebanon,2.256,0.4859,33.056,2.271,2018
+1558,Xiamen Xiangyu,China,31.607,0.1217,8.765,2.06,2018
+1559,MMI Holdings,South Africa,6.092,0.1329,38.174,2.721,2018
+1560,Lindt & Sprungli,Switzerland,4.154,0.4579,7.274,18.068,2018
+1561,Beijing Shougang,China,8.922,0.3348,21.617,3.574,2018
+1562,Rajesh Exports,India,30.425,0.1887,3.258,2.834,2018
+1563,Sunny Optical Technology Group,China,3.317,0.4311,2.415,19.886,2018
+1564,Aurubis,Germany,12.915,0.4538,5.563,4.141,2018
+1565,Wistron,Taiwan,27.482,0.1277,10.977,2.075,2018
+1566,Colruyt,Belgium,10.258,0.4076,5.014,8.198,2018
+1567,Adient,Ireland,16.796,0.164,13.089,5.214,2018
+1568,Hong Leong Financial,Malaysia,2.003,0.3787,56.173,5.494,2018
+1569,Kyushu Financial Group,Japan,1.431,0.175,94.819,2.327,2018
+1570,Rongsheng Petrochemical,China,10.933,0.3043,11.412,9.389,2018
+1571,DSME,South Korea,9.82,0.5543,10.692,2.596,2018
+1572,Nishi-nippon Financial Holdings,Japan,1.244,0.1937,93.669,1.938,2018
+1573,Vertex Pharmaceuticals,United States,2.415,0.2258,3.953,39.746,2018
+1574,360 Security Technology,China,0.321,0.01,3.637,39.253,2018
+1575,SBI Holdings,Japan,2.587,0.4212,42.651,5.896,2018
+1576,VEON,Netherlands,9.831,-0.4978,19.521,4.705,2018
+1577,El Puerto de Liverpool,Mexico,6.848,0.5453,8.774,8.248,2018
+1578,NetApp,United States,5.751,-0.005,9.787,19.363,2018
+1579,Hopson Development Holdings,Hong Kong,1.798,0.7438,19.676,2.294,2018
+1580,Yamaguchi Financial,Japan,1.377,0.2993,90.341,3.181,2018
+1581,Bajaj Auto,India,3.577,0.5998,3.518,12.111,2018
+1582,China Longyuan Power,China,3.64,0.5425,22.364,7.146,2018
+1583,Banco Comercial Portugues,Portugal,3.383,0.2593,89.38,5.389,2018
+1584,Hero Motocorp,India,5.035,0.5771,2.667,10.732,2018
+1585,InterContinental Hotels,United Kingdom,1.783,0.5886,3.175,12.321,2018
+1586,North Pacific Bank,Japan,1.227,0.1235,89.332,1.459,2018
+1587,Goodman Group,Australia,1.321,0.5856,10.068,12.338,2018
+1588,STRABAG,Austria,15.237,0.3146,13.599,4.381,2018
+1589,ICA Gruppen,Sweden,13.024,0.4432,9.502,6.472,2018
+1590,Hachijuni Bank,Japan,1.575,0.2332,87.532,2.529,2018
+1591,ENN Energy Holdings,China,7.16,0.4133,9.093,10.405,2018
+1592,Fresnillo,Mexico,2.086,0.5619,4.738,12.953,2018
+1593,Equifax,United States,3.396,0.5249,7.196,13.799,2018
+1594,Wendel,France,9.395,-0.1341,17.335,6.985,2018
+1595,Halyk Bank,Kazakhstan,2.37,0.5314,26.623,3.551,2018
+1596,Rite Aid,United States,26.208,-1.186,8.989,1.718,2018
+1597,Guangdong Investment,Hong Kong,1.562,0.7296,8.512,10.527,2018
+1598,Iliad,France,5.626,0.4488,10.106,11.824,2018
+1599,Old Republic International,United States,6.3,0.4513,18.999,6.27,2018
+1600,Noble Group,Hong Kong,25.914,-4.9276,4.811,0.077,2018
+1601,Hiroshima Bank,Japan,1.096,0.2515,82.59,2.41,2018
+1602,Inner Mongolia Yitai,China,5.541,0.7587,13.578,4.341,2018
+1603,Israel Discount Bank,Israel,2.757,0.35,63.722,3.342,2018
+1604,Bank of Kyoto,Japan,0.981,0.1998,81.67,4.453,2018
+1605,Adani Ports & Special Economic Zone,India,1.756,0.561,7.264,12.669,2018
+1606,Piraeus Bank,Greece,3.28,-0.226,80.954,1.691,2018
+1607,Tingyi Holding,China,8.726,0.2696,8.308,11.177,2018
+1608,EMS-Chemie Holding,Switzerland,2.18,0.4892,2.155,14.724,2018
+1609,Guoco Group,Hong Kong,3.923,0.8644,16.444,4.397,2018
+1610,Pearson,United Kingdom,5.812,0.5229,10.67,9.748,2018
+1611,VeriSign,United States,1.176,0.4751,2.905,15.466,2018
+1612,Chugoku Bank,Japan,1.113,0.1918,79.617,2.256,2018
+1613,Novozymes,Denmark,2.247,0.4953,3.058,14.438,2018
+1614,Jabil Circuit,United States,20.399,0.1215,11.488,4.73,2018
+1615,Metalurgica Gerdau,Brazil,12.068,-0.102,15.354,2.085,2018
+1616,Companhia Brasileira de Distribuicao,Brazil,14.115,0.2343,13.665,5.983,2018
+1617,National Bank of Greece,Greece,2.434,-0.2256,77.773,3.402,2018
+1618,77 Bank,Japan,0.898,0.1885,75.939,1.84,2018
+1619,IDBI Bank,India,4.774,-0.748,55.807,3.075,2018
+1620,Gunma Bank,Japan,1.312,0.2559,75.268,2.623,2018
+1621,Taylor Wimpey,United Kingdom,5.106,0.7151,6.72,8.672,2018
+1622,Anta Sports Products,China,2.477,0.4576,2.929,15.972,2018
+1623,China Communications Services,China,14.011,0.4011,10.862,4.517,2018
+1624,General Insurance Corporation Of India,India,4.62,0.4684,17.183,8.864,2018
+1625,Sime Darby Plantation,Malaysia,3.449,0.8184,7.209,9.365,2018
+1626,Alpha Bank,Greece,3.464,0.1025,73.024,4.112,2018
+1627,Lanxess,Germany,11.485,0.1227,12.815,7.532,2018
+1628,Sanan Optoelectronics,China,1.243,0.5193,4.263,13.321,2018
+1629,Uniqa,Austria,5.865,0.2223,33.785,3.65,2018
+1630,Chimera Investment,United States,1.169,0.6009,21.331,3.36,2018
+1631,SEB SA,France,7.314,0.423,8.03,9.521,2018
+1632,Eurobank Ergasias,Greece,2.221,0.1173,72.083,2.635,2018
+1633,First Quantum Minerals,Canada,3.994,-0.155,22.143,11.231,2018
+1634,Keppel,Singapore,4.56,0.2166,21.101,11.233,2018
+1635,Unicaja Banco,Spain,1.514,0.1726,71.708,3.122,2018
+1636,Cullen/Frost Bankers,United States,1.264,0.3834,31.459,7.583,2018
+1637,Suruga Bank,Japan,1.356,0.4068,39.701,3.149,2018
+1638,Banco Davivienda,Colombia,3.58,0.432,33.765,5.205,2018
+1639,Vistra Energy,United States,5.406,-0.638,14.776,11.997,2018
+1640,ServiceNow,United States,2.105,-0.0978,3.704,31.602,2018
+1641,Deutsche Pfandbriefbank,Germany,2.003,0.205,69.639,2.175,2018
+1642,News Corp,United States,8.385,-1.572,13.372,8.846,2018
+1643,Acciona,Spain,8.182,0.2483,20.591,4.588,2018
+1644,Bendigo & Adelaide Bank,Australia,2.27,0.3467,55.737,3.942,2018
+1645,Brambles,Australia,5.1,0.4691,8.258,11.831,2018
+1646,Spotify Technology,Luxembourg,4.613,-1.393,3.938,27.029,2018
+1647,Haseko,Japan,7.338,0.6522,6.472,4.663,2018
+1648,LEG Immobilien AG,Germany,0.958,1.0362,12.406,7.128,2018
+1649,Bed Bath & Beyond,United States,12.349,0.4249,7.041,2.359,2018
+1650,IndusInd Bank,India,2.77,0.4277,,16.896,2018
+1651,Red Hat,United States,2.92,0.2588,5.467,30.643,2018
+1652,Dangote Cement,Nigeria,2.436,0.5719,4.776,11.565,2018
+1653,Gjensidige Forsikring,Norway,3.628,0.4862,19.534,7.913,2018
+1654,SDIC Essence,China,1.889,0.3808,25.875,8.301,2018
+1655,Bank Muscat,Oman,1.527,0.4632,29.363,2.895,2018
+1656,Iyo Bank,Japan,0.999,0.2133,66.729,2.485,2018
+1657,NARI Technology Development,China,3.969,0.5005,6.911,13.3,2018
+1658,Suzuken,Japan,19.164,0.1698,11.074,4.242,2018
+1659,Longi Green Energy Technology,China,2.564,0.5535,5.532,11.943,2018
+1660,Autodesk,United States,2.049,-0.5669,4.114,29.845,2018
+1661,Invitation Homes,United States,1.043,-0.1398,18.684,12.322,2018
+1662,Maxim Integrated Products,United States,2.449,0.4365,4.623,16.109,2018
+1663,Shanghai Fosun Pharmaceutical,China,3.049,0.4657,10.127,14.479,2018
+1664,Workday,United States,2.142,-0.3212,4.947,29.346,2018
+1665,Dexus,Australia,0.718,1.1845,10.799,7.414,2018
+1666,Garmin,Switzerland,3.159,0.5865,4.855,11.177,2018
+1667,Moscow Exchange,Russia,0.675,0.3474,52.592,4.541,2018
+1668,Rexel,France,15.385,0.1208,12.203,4.735,2018
+1669,People's United Bank,United States,1.718,0.3738,44.1,6.476,2018
+1670,American Equity Investment,United States,2.267,0.2617,61.301,2.591,2018
+1671,Sany Heavy Industry,China,6.161,0.4295,10.143,10.301,2018
+1672,Luzhou Lao Jiao,China,1.455,0.4484,3.202,15.007,2018
+1673,Tractor Supply,United States,7.375,0.4337,3.208,8.624,2018
+1674,Grupo De Inversiones Suramericana,Colombia,3.955,0.4256,23.246,7.779,2018
+1675,Molina Healthcare,United States,19.625,-0.482,9.133,5.169,2018
+1676,Aozora Bank,Japan,1.208,0.3729,43.647,4.746,2018
+1677,Cattolica Assicurazioni,Italy,5.905,0.0464,30.309,1.7,2018
+1678,Fluor,United States,19.509,0.1131,9.425,6.544,2018
+1679,Pinnacle West,United States,3.582,0.4684,17.148,8.744,2018
+1680,Vornado Realty,United States,2.216,0.1704,16.864,13.308,2018
+1681,CIT Group,United States,3.235,0.2794,51.542,6.818,2018
+1682,Crown Resorts,Australia,2.543,1.338,6.465,6.956,2018
+1683,Air Lease Corporation,United States,1.512,0.7819,15.945,4.564,2018
+1684,Tokyu Fudosan,Japan,7.815,0.3175,20.468,4.788,2018
+1685,Vipshop Holdings,China,10.816,0.289,5.833,8.667,2018
+1686,Live Nation Entertainment,United States,10.407,-0.1024,9.118,8.881,2018
+1687,Catcher Technology,Taiwan,3.305,0.7807,7.405,8.957,2018
+1688,Eisai,Japan,5.082,0.2591,9.305,19.463,2018
+1689,American National Insurance,United States,3.389,0.4726,26.464,3.222,2018
+1690,Cybg,United Kingdom,1.599,0.1938,58.001,3.817,2018
+1691,Hubei Biocause Pharmaceutical,China,6.787,0.2346,23.667,6.076,2018
+1692,Empire,Canada,18.681,0.0914,7.04,5.232,2018
+1693,Toho Bank,Japan,0.611,0.0662,56.673,0.986,2018
+1694,Xinhu Zhongbao,China,2.616,0.5627,20.864,5.973,2018
+1695,Grupo Televisa,Mexico,5.126,0.208,15.855,11.394,2018
+1696,Lundin Petroleum,Sweden,2.177,0.5943,5.983,10.632,2018
+1697,Nippon Steel Trading,Japan,18.608,0.196,7.336,1.911,2018
+1698,Daishi Bank,Japan,0.667,0.1243,56.019,1.535,2018
+1699,Diamondback Energy,United States,1.45,0.5088,8.225,12.21,2018
+1700,Motherson Sumi Systems,India,8.023,0.2386,5.364,10.61,2018
+1701,Avnet,United States,18.584,-0.1389,9.712,4.808,2018
+1702,Huaneng Lancang River Hydropower,China,1.857,0.324,25.077,9.491,2018
+1703,Xinyu Iron & Steel,China,7.859,0.5596,5.24,2.99,2018
+1704,Nomura Research Institute,Japan,4.254,0.4976,6.137,12.477,2018
+1705,Virgin Money Holdings,United Kingdom,1.326,0.2474,55.609,2.086,2018
+1706,Alliant Energy,United States,3.445,0.488,14.242,9.644,2018
+1707,Juroku Bank,Japan,0.941,0.0622,55.152,0.975,2018
+1708,Banco de Chile,Chile,3.93,0.1326,55.079,6.461,2018
+1709,Makita,Japan,4.306,0.494,6.122,12.46,2018
+1710,BayWa,Germany,18.109,0.0444,7.791,1.187,2018
+1711,Signature Bank,United States,1.566,0.2878,44.436,7.012,2018
+1712,Old Dominion Freight Line,United States,3.529,0.5073,3.144,12.091,2018
+1713,SYNNEX,United States,18.077,0.2614,7.458,4.412,2018
+1714,Commercial Bank For Investment & Development Of Vietnam,Vietnam,4.243,0.3105,53.791,5.105,2018
+1715,SQM,Chile,2.169,0.4274,4.425,15.09,2018
+1716,SinoPac Financial,Taiwan,1.557,0.2986,53.738,3.973,2018
+1717,WPG Holdings,Taiwan,17.906,0.2452,6.207,2.545,2018
+1718,Oi,Brazil,7.452,-1.994,20.692,0.885,2018
+1719,Vietin Bank,Vietnam,3.411,0.3445,48.843,4.808,2018
+1720,Atmos Energy,United States,3.1,0.5992,11.356,9.801,2018
+1721,Grupo Bolivar,Colombia,4.703,0.3591,36.65,1.47,2018
+1722,Taiwan Business Bank,Taiwan,1.01,0.1657,53.232,1.907,2018
+1723,Realty Income,United States,1.248,0.3131,14.474,15.07,2018
+1724,BCV Group,Switzerland,1.17,0.3253,46.603,6.853,2018
+1725,DGB Financial Group,South Korea,2.567,0.2673,52.995,1.787,2018
+1726,Rentokil Initial,United Kingdom,3.107,0.8793,4.204,8.034,2018
+1727,Performance Food Group,United States,17.454,0.1747,3.965,3.623,2018
+1728,Shiga Bank,Japan,0.759,0.117,52.212,1.34,2018
+1729,Twitter,United States,2.56,0.0145,7.539,24.65,2018
+1730,Agilent Technologies,United States,4.616,0.196,8.698,22.396,2018
+1731,CBOE Holdings,United States,2.651,0.4989,5.328,12.016,2018
+1732,Ogaki Kyoritsu Bank,Japan,0.718,0.067,51.881,1.079,2018
+1733,Saipem,Italy,10.15,-0.37,15.118,4.045,2018
+1734,China Aviation Oil,Singapore,17.049,0.0869,2.024,1.05,2018
+1735,Nanto Bank,Japan,0.655,0.12,51.782,0.878,2018
+1736,Central Bank of India,India,4.123,-0.3667,51.635,2.743,2018
+1737,Hellenic Petroleum,Greece,9.022,0.4794,8.598,2.919,2018
+1738,Toyota Boshoku,Japan,12.627,0.3858,7.001,3.842,2018
+1739,Whitbread,United Kingdom,4.32,0.5743,6.778,10.519,2018
+1740,Delek Group,Israel,1.498,0.3586,41.574,1.811,2018
+1741,Hyosung,South Korea,11.497,0.2101,13.577,4.278,2018
+1742,Union National Bank,United Arab Emirates,1.47,0.4266,29.274,2.734,2018
+1743,Fangda Carbon New Material,China,1.655,0.821,2.511,8.199,2018
+1744,Berkeley Group Holdings,United Kingdom,3.717,0.9779,6.096,7.636,2018
+1745,Orient,Japan,2.027,0.2528,51.484,2.512,2018
+1746,KWG Property Holding,Hong Kong,1.696,0.5373,20.723,4.462,2018
+1747,Sears Holdings,United States,16.702,-0.383,7.554,0.369,2018
+1748,Aareal Bank,Germany,1.146,0.2244,50.979,3.011,2018
+1749,Affiliated Managers Group,United States,2.434,0.7201,8.584,8.949,2018
+1750,Hyakugo Bank,Japan,0.773,0.1065,50.866,1.183,2018
+1751,Metropolitan Bank & Trust,Philippines,2.096,0.3647,39.59,6.556,2018
+1752,TP ICAP,United Kingdom,2.286,0.112,50.556,3.351,2018
+1753,China Oriental Group,Hong Kong,6.123,0.7194,3.748,2.675,2018
+1754,First Pacific,Hong Kong,7.297,0.1206,20.454,2.223,2018
+1755,Hengan International Group,China,2.936,0.5618,5.973,10.642,2018
+1756,Banca Popolare di Sondrio,Italy,1.348,0.1796,49.983,2.099,2018
+1757,Bandai Namco Holdings,Japan,6.12,0.4882,5.082,8.379,2018
+1758,Credito Emiliano,Italy,2.119,0.2104,49.935,2.879,2018
+1759,Ingredion,United States,5.847,0.535,5.975,8.074,2018
+1760,Hanwa,Japan,16.161,0.1566,8.105,1.884,2018
+1761,Essex Property Trust,United States,1.392,0.345,12.643,16.012,2018
+1762,AmTrust Financial Services,United States,6.065,0.2903,25.701,2.615,2018
+1763,Brilliance China Automotive Holdings,Hong Kong,0.784,0.647,5.813,9.397,2018
+1764,Bio-Rad Laboratories,United States,2.212,0.7591,6.215,8.494,2018
+1765,Core-Mark Holding,United States,15.989,0.0301,1.67,0.88,2018
+1766,San-In Godo Bank,Japan,0.808,0.1124,49.341,1.51,2018
+1767,Align Technology,United States,1.6,0.2579,1.783,22.962,2018
+1768,Extra Space Storage,United States,1.122,0.4841,7.471,12.008,2018
+1769,Ares Capital,United States,1.233,0.791,12.693,7.077,2018
+1770,Nuernberger Beteiligungs,Germany,4.913,0.105,37.136,0.965,2018
+1771,Tokyo TY Financial Group,Japan,0.731,0.0542,49.078,0.818,2018
+1772,Senshu Ikeda Holdings,Japan,0.847,0.0898,48.921,1.1,2018
+1773,BRF,Brazil,10.483,-0.3523,14.171,5.329,2018
+1774,Liberbank,Spain,0.887,-0.3062,48.289,1.685,2018
+1775,Shandong Chenming Paper B HKD,China,4.618,0.58,17.019,3.964,2018
+1776,B3,Brazil,1.151,0.406,11.677,13.43,2018
+1777,RusHydro,Russia,5.968,0.4117,18.003,5.102,2018
+1778,TransUnion,United States,2.016,0.4519,5.164,12.788,2018
+1779,Maxis,Malaysia,2.104,0.5299,4.941,10.902,2018
+1780,BBVA Banco Continental,Peru,1.827,0.4324,23.921,6.838,2018
+1781,Bank of Qingdao,China,1.898,0.2794,47.033,3.614,2018
+1782,Tongyang Life Insurance,South Korea,5.551,0.1025,28.332,1.122,2018
+1783,Sunshine City Group,China,4.887,0.3131,36.032,4.725,2018
+1784,Square,United States,2.421,-0.0717,2.38,22.024,2018
+1785,Grupo Galicia,Argentina,3.957,0.503,18.115,7.11,2018
+1786,Inventec,Taiwan,15.367,0.222,7.015,2.785,2018
+1787,Syndicate Bank,India,3.939,0.0772,46.291,1.082,2018
+1788,Microchip Technology,United States,3.981,0.2554,8.257,21.782,2018
+1789,Supervalu,United States,15.336,0.045,4.387,0.623,2018
+1790,Empresas CMPC,Chile,5.408,0.2582,15.164,9.974,2018
+1791,Popular,Puerto Rico,2.215,0.1061,45.757,4.711,2018
+1792,Taiwan Mobile,Taiwan,3.956,0.457,5.325,12.297,2018
+1793,Jiangsu Zhongnan Construction Group,China,5.233,0.1254,30.246,4.439,2018
+1794,Keiyo Bank,Japan,0.574,0.1093,45.035,1.232,2018
+1795,Hokkoku Bank,Japan,0.601,0.0917,44.879,1.188,2018
+1796,Nippon Paint,Japan,5.398,0.3311,8.172,14.397,2018
+1797,Ramsay Health Care,Australia,6.77,0.3676,6.867,9.761,2018
+1798,Yamada Denki,Japan,14.2,0.269,11.054,5.017,2018
+1799,JB Financial Group,South Korea,2.062,0.1819,44.457,0.888,2018
+1800,Kingboard Chemical Holdings,Hong Kong,5.538,0.7178,11.295,4.157,2018
+1801,United Utilities,United Kingdom,2.188,0.543,16.593,7.083,2018
+1802,SK Networks,South Korea,14.701,0.0205,6.751,1.168,2018
+1803,Hella Kgaa Hueck &,Germany,8.009,0.4294,6.935,7.166,2018
+1804,Sydney Airport,Australia,1.131,0.4542,9.639,12.139,2018
+1805,Japan Securities,Japan,0.24,0.0357,43.736,0.593,2018
+1806,Hyatt Hotels,United States,4.404,0.59,7.987,9.526,2018
+1807,Sysmex,Japan,2.544,0.3539,3.028,18.054,2018
+1808,Fastighets Balder,Sweden,0.694,0.8333,12.978,4.902,2018
+1809,Hyakujushi Bank,Japan,0.643,0.0785,43.117,0.99,2018
+1810,Remgro,South Africa,2.039,0.5518,9.6,10.152,2018
+1811,Genting,Malaysia,4.656,0.3218,23.223,8.341,2018
+1812,ONO Pharmaceutical,Japan,2.362,0.4537,5.728,12.09,2018
+1813,EFG International,Switzerland,1.569,-0.0608,42.702,2.331,2018
+1814,Tapestry,United States,5.53,0.3375,6.588,13.251,2018
+1815,Broadridge Financial,United States,4.4,0.4082,3.485,13.858,2018
+1816,BOK Financial,United States,1.656,0.3483,33.361,6.781,2018
+1817,Safaricom,Kenya,2.186,0.4923,1.803,11.074,2018
+1818,First Citizens BancShares,United States,1.629,0.3564,34.436,5.331,2018
+1819,GS Engineering,South Korea,10.896,0.0953,12.794,2.864,2018
+1820,Kiyo Bank,Japan,0.631,0.1052,42.237,1.161,2018
+1821,Harel Insurance Investments & Financial Services,Israel,5.119,0.1902,29.91,1.57,2018
+1822,Land Securities Group,United Kingdom,1.047,0.2214,19.944,9.825,2018
+1823,United Aircraft,Russia,7.682,-0.023,17.184,4.817,2018
+1824,Basler Kantonalbank,Switzerland,0.748,0.1532,41.837,0.397,2018
+1825,NiSource,United States,5.027,0.1933,20.098,8.42,2018
+1826,Barry Callebaut,Switzerland,6.99,0.3426,6.546,9.975,2018
+1827,Banque Centrale Populaire,Morocco,2.707,0.2929,41.036,5.682,2018
+1828,Grand Industrial Holding,China,14.017,-0.0479,1.204,0.898,2018
+1829,Sino Biopharmaceutical,Hong Kong,2.193,0.321,3.215,19.792,2018
+1830,NH Investment & Securities,South Korea,1.303,0.3097,41,4.65,2018
+1831,MTU Aero Engines AG,Germany,5.681,0.4266,7.566,9.442,2018
+1832,RMB Holdings,South Africa,0.002,0.6244,3.632,8.879,2018
+1833,Hengli Petrochemical,China,4.456,0.3827,11.762,13.169,2018
+1834,Korea Zinc,South Korea,5.835,0.5564,6.574,7.231,2018
+1835,Power Finance,India,4.117,0.3335,39.954,3.252,2018
+1836,First Horizon National,United States,1.657,0.2021,40.463,6.23,2018
+1837,Pou Chen,Taiwan,9.159,0.4247,10.145,3.723,2018
+1838,Commercial Bank of Qatar,Qatar,1.832,0.1858,40.183,4.022,2018
+1839,Unisplendour,China,6.221,0.2275,6.801,11.444,2018
+1840,Musashino Bank,Japan,0.532,0.0945,39.938,1.13,2018
+1841,Bank of Queensland,Australia,1.76,0.2818,39.938,2.978,2018
+1842,Isetan Mitsukoshi Holdings,Japan,11.448,-0.0087,12.075,4.701,2018
+1843,China National Chemical,China,9.455,0.2485,13.832,6.043,2018
+1844,CSPC Pharmaceutical Group,Hong Kong,1.984,0.3555,2.756,16.781,2018
+1845,Marks & Spencer,United Kingdom,13.622,0.2342,10.617,6.458,2018
+1846,Marine Harvest ASA,Norway,4.129,0.5093,5.2,10.382,2018
+1847,Amorepacific,South Korea,4.488,0.312,5.265,18.726,2018
+1848,FIBI Holdings,Israel,1.302,0.0904,39.117,0.883,2018
+1849,Credit Bank of Moscow,Russia,2.548,0.3549,32.797,2.102,2018
+1850,Li & Fung,Hong Kong,13.532,0.2178,6.518,4.604,2018
+1851,Zalando,Germany,5.498,0.0969,3.719,12.908,2018
+1852,Coca-Cola West,Japan,8.908,0.2331,8.358,8.273,2018
+1853,EasyJet,United Kingdom,6.393,0.3863,8.011,9.248,2018
+1854,Shenzhen Investment,Hong Kong,1.386,0.6353,14.996,3.295,2018
+1855,Jones Lang LaSalle,United States,9.872,0.2835,9.204,7.768,2018
+1856,Dixons Carphone,United Kingdom,13.477,0.3032,10.395,3.498,2018
+1857,Luzerner Kantonalbank,Switzerland,0.642,0.2077,38.68,4.678,2018
+1858,Laurentian Bank,Canada,1.295,0.1686,38.655,1.619,2018
+1859,UOL Group,Singapore,1.523,0.6454,14.684,5.501,2018
+1860,Bank of Greece,Greece,1.679,1.0623,,0.354,2018
+1861,Dali Foods Group,China,2.93,0.508,2.507,10.293,2018
+1862,Corporation Bank,India,3.366,0.0844,38.257,0.714,2018
+1863,Sinotruk Hong Kong,China,8.215,0.4481,9.395,3.447,2018
+1864,Michael Kors Holdings,United Kingdom,4.604,0.521,4.217,9.599,2018
+1865,China Petroleum Engineering,China,8.483,0.0637,14.73,3.499,2018
+1866,Konka Group,China,5.157,0.769,3.735,1.794,2018
+1867,Advanced Micro Devices,United States,5.992,0.197,3.763,11.584,2018
+1868,Financial Street Holdings,China,3.411,0.4551,21.085,4.19,2018
+1869,Orkla,Norway,4.95,0.4815,6.687,9.437,2018
+1870,Palo Alto Networks,United States,1.989,-0.198,3.628,18.582,2018
+1871,E-L Financial,Canada,1.185,0.5147,18.069,2.552,2018
+1872,Indian Overseas Bank,India,3.303,-0.5128,37.582,1.265,2018
+1873,Toll Brothers,United States,6.07,0.5972,9.618,6.477,2018
+1874,Bank of the Ozarks,United States,1.1,0.4458,22.039,6.229,2018
+1875,NKT,Denmark,1.669,1.0482,2.441,0.801,2018
+1876,SBA Communications,United States,1.763,0.0976,7.405,18.441,2018
+1877,Far Eastern New Century,Taiwan,7.161,0.2651,17.365,5.099,2018
+1878,IDEXX Laboratories,United States,2.045,0.2836,1.469,18.407,2018
+1879,Olin,United States,6.412,0.557,9.16,5.51,2018
+1880,Oriental Bank of Commerce,India,3.15,-0.8354,36.987,0.777,2018
+1881,Murphy USA,United States,13.071,0.2876,2.252,2.224,2018
+1882,Allahabad Bank,India,3.067,-0.0416,36.646,0.573,2018
+1883,Asian Paints,India,2.505,0.3102,1.95,18.382,2018
+1884,Want Want China,China,2.812,0.4493,3.802,11.419,2018
+1885,CF Industries Holdings,United States,4.05,0.444,13.522,9.218,2018
+1886,Mettler-Toledo International,United States,2.791,0.3768,2.512,14.315,2018
+1887,PacWest Bancorp,United States,1.215,0.3931,24.149,6.755,2018
+1888,Seiko Epson,Japan,9.944,0.3775,9.716,6.695,2018
+1889,Spirit AeroSystems,United States,7.025,0.3384,5.37,9.589,2018
+1890,H Lundbeck,Denmark,2.613,0.3979,3.222,13.1,2018
+1891,Berry Global Group,United States,7.53,0.47,9.107,6.463,2018
+1892,Founder Securities,China,1.018,0.2059,23.848,8.005,2018
+1893,Tahoe Group,China,3.647,0.3216,36.106,5.1,2018
+1894,Jaccs,Japan,1.158,0.0735,36.049,0.785,2018
+1895,Burlington Stores,North America,9.381,6.11,0.3849,,2018
+1896,Thor Industries,United States,8.153,0.4389,2.709,5.061,2018
+1897,Wirecard,Germany,1.681,0.2929,5.45,17.998,2018
+1898,Jinke Property Group,China,5.177,0.3054,25.873,4.611,2018
+1899,Shandong Gold Mining,China,8.292,0.1745,6.689,8.426,2018
+1900,Inmobiliaria Colonial,Europe,5.156,0.326,0.7698,,2018
+1901,SES,Luxembourg,2.295,0.619,14.678,5.983,2018
+1902,Sabesp,Brazil,4.576,0.7891,11.922,5.509,2018
+1903,Cimarex Energy,United States,2.038,0.5407,5.26,9.404,2018
+1904,Inchcape,United Kingdom,11.525,0.3463,6.596,4.204,2018
+1905,Xylem,United States,4.846,0.354,7.35,13.23,2018
+1906,CPI Property Group.,Luxembourg,0.542,0.7834,9.068,7.249,2018
+1907,Liuzhou Iron & Steel,China,6.584,0.5265,3.579,2.933,2018
+1908,Banco BPI,Portugal,1.137,0.0115,35.592,2.527,2018
+1909,Samsung Securities,South Korea,1.055,0.2403,35.447,3.102,2018
+1910,GPT Group,Australia,0.543,0.9728,10.135,6.645,2018
+1911,AmBank Group,Malaysia,1.736,0.2825,35.285,2.832,2018
+1912,JC Penney,United States,12.506,-0.116,8.638,0.891,2018
+1913,Tech Mahindra,India,4.64,0.4864,4.516,9.693,2018
+1914,Grupo Zuliano,Venezuela,,0.9989,,0.139,2018
+1915,Andhra Bank,India,3.177,0.0309,34.719,0.648,2018
+1916,Nippon Paper Industries,Japan,9.349,0.1995,13.112,2.223,2018
+1917,Dollarama,Canada,2.529,0.4021,1.613,12.569,2018
+1918,Hokkaido Electric Power,Japan,6.614,0.1493,18.015,1.456,2018
+1919,Bank of Nagoya,Japan,0.562,0.0493,34.559,0.714,2018
+1920,Frasers Centrepoint,Singapore,2.929,0.4172,22.785,4.296,2018
+1921,Alexandria Real Estate Equities,United States,1.185,0.2573,12.821,13.186,2018
+1922,Zall Development Group,China,3.361,0.3528,7.27,15.149,2018
+1923,Tongling Nonferrous Metals,China,12.334,0.0916,7.728,4.321,2018
+1924,Aristocrat Leisure,Australia,1.869,0.3771,2.584,13.616,2018
+1925,Kuwait Projects,Kuwait,2.017,0.0536,34.298,1.136,2018
+1926,IPG Photonics,United States,1.483,0.379,2.498,13.502,2018
+1927,Kesko,Finland,12.261,0.3144,5.871,5.901,2018
+1928,Dufry,Switzerland,8.748,0.0722,10.186,7.902,2018
+1929,ITV,United Kingdom,4.033,0.5267,4.533,9.383,2018
+1930,Steel Authority of India,India,6.636,-0.411,17.751,4.508,2018
+1931,Shanghai Lujianzi,China,1.173,0.509,12.614,8.223,2018
+1932,Aeroflot-Russian Airlines,Russia,9.137,0.3921,5.933,2.476,2018
+1933,ISS,Denmark,12.136,0.3036,8.258,6.522,2018
+1934,Indian Bank,India,2.723,0.2167,33.65,2.27,2018
+1935,Fibria Celulose,Brazil,4.151,0.4263,11.473,10.88,2018
+1936,Banque Marocaine Du Commerce Exterieur,Morocco,1.946,0.2098,33.525,4.122,2018
+1937,Tomony Holdings,Japan,0.582,0.1046,33.497,0.752,2018
+1938,Fraser & Neave,Singapore,1.409,0.954,3.55,2.266,2018
+1939,Heilan Home,China,2.817,0.5205,4.376,9.398,2018
+1940,Sichuan Changhong Electric,China,11.98,0.058,10.505,2.245,2018
+1941,KBC Ancora,Belgium,0.245,0.9529,3.812,4.624,2018
+1942,Splunk,United States,1.271,-0.2591,2.044,16.826,2018
+1943,Synnex Technology Intl,Taiwan,11.972,0.201,4.664,2.427,2018
+1944,St Galler Kantonalbank,Switzerland,0.594,0.1585,33.451,3.044,2018
+1945,Sun Pharma Industries,India,4.093,0.3189,9.858,16.823,2018
+1946,Bank of Iwate,Japan,0.408,0.0498,33.445,0.709,2018
+1947,Mirae Asset Life Insurance,South Korea,3.075,0.196,33.377,0.909,2018
+1948,CNX Resources,United States,1.833,0.9473,8.122,3.391,2018
+1949,UCO Bank,India,2.399,-0.4439,33.373,0.53,2018
+1950,Associated Banc-Corp,United States,1.29,0.2412,33.367,4.629,2018
+1951,Fortune Brands Home & Security,United States,5.351,0.4702,5.552,8.189,2018
+1952,Match Group,United States,1.439,0.431,2.202,11.196,2018
+1953,Avery Dennison,United States,6.818,0.2948,5.28,9.478,2018
+1954,Envision Healthcare,United States,8.018,0.1161,14.384,5.126,2018
+1955,Snap-on,United States,4.055,0.5791,5.318,8.432,2018
+1956,Crown Holdings,United States,9.007,0.306,13.079,6.001,2018
+1957,Thanachart Capital,Thailand,2.015,0.2207,32.815,1.847,2018
+1958,CNO Financial Group,United States,4.208,0.1976,32.809,3.337,2018
+1959,Abiomed,United States,0.594,0.1122,0.786,16.538,2018
+1960,Shanghai Ganglian E-Commerce Holdings,China,11.769,0.0095,1.701,1.616,2018
+1961,Hakuhodo DY Holdings,Japan,11.738,0.2631,6.574,5.297,2018
+1962,Zenith Bank,Nigeria,2.158,0.5432,15.768,2.513,2018
+1963,Chaparral Energy,United States,0.294,0.9231,1.201,0.988,2018
+1964,Assured Guaranty,Bermuda,1.327,0.61,13.897,3.932,2018
+1965,NH Foods,Japan,11.448,0.3352,7.1,4.393,2018
+1966,Bureau Veritas Registre International de Classific,France,5.289,0.3482,6.448,11.332,2018
+1967,Don Quijote Holdings,Japan,8.228,0.3002,7.498,7.998,2018
+1968,Jointown Pharmaceutical Group,China,11.641,0.2235,9.56,5.333,2018
+1969,Ford Otosan,Turkey,7.408,0.4489,3.335,4.63,2018
+1970,Sumitomo Rubber,Japan,8.106,0.4158,9.479,4.557,2018
+1971,Sembcorp Industries,Singapore,6.608,0.1058,17.157,4.149,2018
+1972,Bid Corp.,South Africa,9.363,0.3072,4.499,7.382,2018
+1973,Fuyo General Lease,Japan,5.325,0.198,22.857,2.274,2018
+1974,Signet Jewelers,Bermuda,6.253,0.5193,5.84,2.25,2018
+1975,Southwestern Energy,United States,3.277,0.903,7.713,2.512,2018
+1976,Group 1 Automotive,United States,11.472,0.208,5.058,1.428,2018
+1977,Alps Electric,Japan,7.744,0.4276,6.317,4.865,2018
+1978,F.N.B.,United States,1.324,0.263,31.652,4.334,2018
+1979,Yamaha,Japan,3.907,0.4906,5.267,9.627,2018
+1980,Constellation Software,Canada,2.639,0.2633,2.605,16.092,2018
+1981,FinecoBank,Italy,0.967,0.2415,26.861,7.062,2018
+1982,LG International,South Korea,11.437,-0.0657,4.64,0.94,2018
+1983,Saudi Investment Bank,Saudi Arabia,1.153,0.3805,24.408,3.427,2018
+1984,Thomas Cook Group,United Kingdom,11.409,0.0165,8.875,2.833,2018
+1985,Sinotrans Ltd.,China,10.759,0.342,9.537,3.553,2018
+1986,Telecom Argentina,Argentina,3.945,0.4608,3.149,10.178,2018
+1987,Synovus Financial,United States,1.473,0.3068,31.501,6.407,2018
+1988,HCP,United States,1.835,-0.008,14.068,11.312,2018
+1989,Securitas,Sweden,11.126,0.3357,6.188,5.884,2018
+1990,Nanjing Iron & Steel,China,5.906,0.5522,6.44,3.153,2018
+1991,Electricity Generating,Thailand,0.972,0.8781,6.637,3.769,2018
+1992,Vingroup,Vietnam,4.634,0.203,9.814,14.364,2018
+1993,Awa Bank,Japan,0.593,0.107,30.885,1.464,2018
+1994,MSCI,United States,1.324,0.3461,3.344,14.33,2018
+1995,Uralkali,Russia,2.761,0.8738,8.988,5.048,2018
+1996,Fabege AB,Sweden,0.281,0.8737,7.482,3.932,2018
+1997,SEI Investments,United States,1.572,0.4555,1.894,10.177,2018
+1998,Sumec Corporation,China,11.287,0.0549,6.93,1.205,2018
+1999,BioMarin Pharmaceutical,United States,1.4,-0.1449,4.597,15.623,2018
+2000,China Agri-Industries,Hong Kong,11.274,0.2607,8.614,2.22,2018
